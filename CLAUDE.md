@@ -130,7 +130,7 @@ python build/build.py --output-name "MKC-Handbook-Final"
 
 ## Next Steps
 
-1. Apply section reordering to config.yaml (Sections 4 and 8)
+1. ~~Apply section reordering to config.yaml (Sections 4 and 8)~~ ✓ Done
 2. Complete placeholder policies (tips, social-media, cell-phones, emergency, food-safety)
 3. Continue policy-by-policy review
 4. Create GitHub editing guide for Becky
