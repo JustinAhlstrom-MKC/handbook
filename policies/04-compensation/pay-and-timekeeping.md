@@ -12,7 +12,7 @@ applies_to: all
 
 <!-- PLACEHOLDER: Confirm pay frequency and adjust as needed -->
 
-MKC Restaurants pays employees on a **bi-weekly** basis. Pay periods run from Sunday through Saturday. Paychecks are issued on the Friday following the end of each pay period.
+MKC Restaurants pays employees on a **bi-weekly** basis. Pay periods run from Monday through Sunday. Paychecks are issued on the Friday following the end of each pay period.
 
 If a payday falls on a holiday, you will typically be paid on the preceding business day.
 
@@ -45,7 +45,7 @@ If you forget to clock in or out, notify your manager immediately. Your manager 
 
 ## Time Record Review
 
-Review your time records regularly through ADP. If you believe there is an error in your hours or pay, report it to your manager right away. We will investigate and correct any errors promptly.
+Review your time records regularly through 7shifts. If you believe there is an error in your hours in 7shifts or pay in ADP, report it to your manager right away. We will investigate and correct any errors promptly.
 
 ## Payroll Deductions
 

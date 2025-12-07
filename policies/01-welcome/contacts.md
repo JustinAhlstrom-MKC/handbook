@@ -10,7 +10,7 @@ applies_to: all
 
 ## Margie's Kitchen & Cocktails
 
-- **Address:** 16691 Zurich St NE, Andover, MN 55304
+- **Address:** 13735 Round Lake Blvd, Andover, MN 55304
 - **Phone:** (763) 205-4762
 - **Website:** www.margies-kitchen.com
 
@@ -20,15 +20,13 @@ applies_to: all
 - **Phone:** (763) 898-3140
 - **Website:** www.gracklegrove.com
 
-## Ownership & HR
+## Ownership
 
 - **Justin Ahlstrom:** justin@margies-kitchen.com / (612) 819-4616
 - **Becky Ahlstrom:** becky@margies-kitchen.com
-- **HR Support (Gigi):** gigi@margies-kitchen.com / (763) 228-0220
 
 ## Management Contacts
 
-- **Emily O'Dell (Margie's GM):** emily@margies-kitchen.com / (763) 477-1441
-- **Ashley (Margie's):** ashley@margies-kitchen.com / (612) 208-4544
+- **Emily O'Dell (General Manager - Margie's):** emily@margies-kitchen.com / (763) 477-1441
+- **Anne Marie Rohrs (General Manager - Grackle):** anne-marie@gracklegrove.com / (763) 226-4851
 - **Diego Chalco (Culinary Director):** diego@margies-kitchen.com / (612) 205-5791
-- **Anne Marie Rohrs (Grackle):** anne-marie@gracklegrove.com / (763) 226-4851

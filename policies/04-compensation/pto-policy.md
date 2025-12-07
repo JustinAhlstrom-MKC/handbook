@@ -23,16 +23,14 @@ All employees earn time off based on their employment classification. This polic
 **Part-Time Hourly Employees:**
 - Sick & Safe Time: 48 hours per year maximum
 - Vacation/PTO: None
-- Total: 48 hours
 
 **Full-Time Hourly Employees:**
 - Sick & Safe Time: 48 hours per year maximum
 - Vacation/PTO: 40 hours per year
-- Total: 88 hours
 
 **Exempt Management:**
 - Sick & Safe Time: 48 hours per year
-- Vacation/PTO: Margie's - 40 hours per year; Grackle - 80 hours per year
+- Vacation/PTO: 80 hours per year
 
 ## Accrual Rates & Methods
 
@@ -46,7 +44,7 @@ All employees earn time off based on their employment classification. This polic
 **PTO - Full-Time Hourly:**
 - Qualification: Average 30+ hours/week for 90 consecutive days
 - Accrual Rate: 0.0192 hours per hour worked (~40 hours/year at full-time)
-- Accrual Begins: Day 91 after qualifying as full-time
+- Accrual Begins: After qualifying as full-time
 - Carryover: Up to 40 hours
 
 **PTO - Exempt Management:**
@@ -58,11 +56,11 @@ All employees earn time off based on their employment classification. This polic
 
 **Initial Qualification:** New employees must work an average of 30+ hours per week for their first 90 days to qualify for full-time PTO benefits. PTO accrual begins on day 91.
 
-**Quarterly Review:** FT/PT status is reviewed each quarter based on the prior 90-day average.
+**Quarterly Review:** FT/PT status is reviewed each calendar quarter based on the prior quarter average.
 
-**Losing FT Status:** If hours drop below 30/week average for 90 consecutive days, PTO accrual stops. Already accrued PTO remains available. Employee must re-qualify with a new 90-day period to restart PTO accrual.
+**Losing FT Status:** If hours drop below 30/week average for a calendar quarter, PTO accrual stops. Already accrued PTO remains available. Employee must re-qualify within a calendar quarter to restart PTO accrual.
 
-**Regaining FT Status:** Employee must average 30+ hours/week for 90 consecutive days to restart PTO accrual.
+**Regaining FT Status:** Employee must average 30+ hours/week for a calendar quarter to restart PTO accrual.
 
 ## Payout at Termination
 

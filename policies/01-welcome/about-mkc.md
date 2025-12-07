@@ -8,11 +8,11 @@ applies_to: all
 
 # About MKC Restaurants
 
-MKC Restaurants is the parent company operating both Margie's Kitchen & Cocktails and Grackle restaurant locations in Maple Grove, Minnesota. Both restaurants are family-owned and operated by Becky and Justin Ahlstrom, with deep roots in community service and hospitality excellence.
+MKC Restaurants is the operating group for both Margie's Kitchen & Cocktails in Andover and Grackle in Maple Grove. Both restaurants are family-owned and operated by Becky and Justin Ahlstrom, with deep roots in community service and hospitality excellence.
 
 ## Margie's Kitchen & Cocktails
 
-**Address:** 16691 Zurich St NE, Andover, MN 55304
+**Address:** 13735 Round Lake Blvd NW, Andover, MN 55304
 **Phone:** (763) 205-4762
 **Website:** www.margies-kitchen.com
 
