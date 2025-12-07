@@ -8,61 +8,62 @@ applies_to: all
 
 # Time Off Policy
 
-All employees earn time off based on their employment classification. This policy complies with Minnesota Sick and Safe Time (SST) laws and provides additional paid time off (PTO) for qualifying employees.
+MKC Restaurants provides paid time off to eligible employees. This policy complies with Minnesota Sick and Safe Time (SST) law and provides additional vacation/PTO for qualifying employees.
 
-## Employee Classifications
+Your eligibility for time off benefits depends on your employee classification. See the **Employee Classifications** policy for details on how full-time and part-time status is determined.
 
-**Part-Time Hourly:** Employees averaging less than 30 hours per week
+## Time Off by Classification
 
-**Full-Time Hourly:** Employees averaging 30+ hours per week over 90 consecutive days
+| Classification | Sick & Safe Time | Vacation/PTO |
+|----------------|------------------|--------------|
+| Part-Time Hourly | 48 hrs/year | None |
+| Full-Time Hourly | 48 hrs/year | 40 hrs/year |
+| Exempt Management | 48 hrs/year | 80 hrs/year |
 
-**Exempt Management:** Salaried managers
+## Sick & Safe Time
 
-## Time Off Structure
+All employees earn Sick & Safe Time in compliance with Minnesota law.
 
-**Part-Time Hourly Employees:**
-- Sick & Safe Time: 48 hours per year maximum
-- Vacation/PTO: None
+**Accrual:**
+- **Rate:** 1 hour earned per 30 hours worked
+- **Begins:** First day of employment
+- **Annual Cap:** 48 hours earned per year
+- **Balance Cap:** Up to 80 hours total balance (carryover allowed)
 
-**Full-Time Hourly Employees:**
-- Sick & Safe Time: 48 hours per year maximum
-- Vacation/PTO: 40 hours per year
+**Usage:**
+- Available to use after 90 days of employment
+- See **Minnesota Earned Sick and Safe Time (ESST)** policy for eligible uses
 
-**Exempt Management:**
-- Sick & Safe Time: 48 hours per year
-- Vacation/PTO: 80 hours per year
+## Vacation/PTO
 
-## Accrual Rates & Methods
+### Full-Time Hourly Employees
 
-**Sick & Safe Time (All Employees):**
-- Accrual Rate: 1 hour per 30 hours worked
-- Accrual Begins: First day of employment
-- Usage Begins: After 90 days of employment
-- Annual Cap: 48 hours earned per year
-- Carryover: Up to 80 hours total balance
+**Accrual:**
+- **Rate:** 0.0192 hours per hour worked (approximately 40 hours/year at full-time)
+- **Begins:** After qualifying as full-time (see Employee Classifications policy)
+- **Balance Cap:** Up to 40 hours carryover
 
-**PTO - Full-Time Hourly:**
-- Qualification: Average 30+ hours/week for 90 consecutive days
-- Accrual Rate: 0.0192 hours per hour worked (~40 hours/year at full-time)
-- Accrual Begins: After qualifying as full-time
-- Carryover: Up to 40 hours
+**If you lose full-time status:** PTO accrual stops, but any accrued balance remains available to use.
 
-**PTO - Exempt Management:**
-- Method: Front-loaded January 1 (or hire date, prorated)
-- New Hires: Prorated based on hire date
-- Carryover: Up to 40 hours
+### Exempt Management
 
-## Full-Time Status Determination
+**Accrual:**
+- **Method:** Front-loaded on January 1 each year
+- **Amount:** 80 hours per year
+- **New Hires:** Prorated based on hire date
+- **Balance Cap:** Up to 40 hours carryover
 
-**Initial Qualification:** New employees must work an average of 30+ hours per week for their first 90 days to qualify for full-time PTO benefits. PTO accrual begins on day 91.
+## Requesting Time Off
 
-**Quarterly Review:** FT/PT status is reviewed each calendar quarter based on the prior quarter average.
-
-**Losing FT Status:** If hours drop below 30/week average for a calendar quarter, PTO accrual stops. Already accrued PTO remains available. Employee must re-qualify within a calendar quarter to restart PTO accrual.
-
-**Regaining FT Status:** Employee must average 30+ hours/week for a calendar quarter to restart PTO accrual.
+- Submit PTO requests through **7shifts** at least 3 weeks in advance
+- Time off requests are subject to approval based on business needs
+- Sick & Safe Time may be used without advance notice when the need is unforeseeable
 
 ## Payout at Termination
 
 - **Sick & Safe Time:** Not paid out at termination
 - **Vacation/PTO:** Paid out at termination per Minnesota law
+
+## Questions
+
+If you have questions about your time off balances or eligibility, check ADP or contact your manager.

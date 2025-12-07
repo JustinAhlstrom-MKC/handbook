@@ -12,7 +12,7 @@ MKC Restaurants wants to ensure every employee is paid fairly and consistently w
 
 ## Work Week
 
-The normal work week for MKC Restaurants is 40 hours. For purposes of overtime calculation, the work week is considered to begin on Sunday and end on Saturday.
+The normal work week for MKC Restaurants is 40 hours. For purposes of overtime calculation, the work week is considered to begin on Monday and end on Sunday.
 
 ## Exempt and Non-Exempt Status
 

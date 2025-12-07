@@ -34,6 +34,7 @@ sections:
     title: Employment Basics
     policies:
       - at-will.md
+      - employee-classifications.md
       - eeo.md
       - accommodations.md
       - introductory-period.md
@@ -60,6 +61,7 @@ sections:
       - pto-policy.md
       - mn-esst.md
       - mn-paid-leave.md
+      - benefits.md
       - wage-discussions.md
 
   - id: 05-scheduling
