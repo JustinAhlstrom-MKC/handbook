@@ -35,7 +35,8 @@
 | [at-will.md](policies/02-employment/at-will.md) | draft | |
 | [eeo.md](policies/02-employment/eeo.md) | draft | |
 | [accommodations.md](policies/02-employment/accommodations.md) | draft | |
-| [introductory-period.md](policies/02-employment/introductory-period.md) | draft | NEW |
+| [introductory-period.md](policies/02-employment/introductory-period.md) | draft | |
+| [employee-classifications.md](policies/02-employment/employee-classifications.md) | draft | NEW - defines PT/FT/Exempt, eligibility rules |
 
 ## Section 3: Workplace Conduct
 
@@ -54,13 +55,14 @@
 
 | Policy | Status | Notes |
 |--------|--------|-------|
-| [pay-and-timekeeping.md](policies/04-compensation/pay-and-timekeeping.md) | draft | NEW - confirm pay frequency |
+| [pay-and-timekeeping.md](policies/04-compensation/pay-and-timekeeping.md) | draft | |
 | [work-hours-overtime.md](policies/04-compensation/work-hours-overtime.md) | draft | |
-| [tips.md](policies/04-compensation/tips.md) | draft | NEW - PLACEHOLDER needs tip pool details |
-| [meal-rest-breaks.md](policies/04-compensation/meal-rest-breaks.md) | draft | NEW - PLACEHOLDER needs meal benefit details |
+| [tips.md](policies/04-compensation/tips.md) | draft | PLACEHOLDER - needs tip sharing guidance |
 | [pto-policy.md](policies/04-compensation/pto-policy.md) | draft | |
 | [mn-esst.md](policies/04-compensation/mn-esst.md) | draft | |
 | [mn-paid-leave.md](policies/04-compensation/mn-paid-leave.md) | draft | Effective 2026 |
+| [benefits.md](policies/04-compensation/benefits.md) | draft | NEW - health, dental, EAP eligibility |
+| [meal-rest-breaks.md](policies/04-compensation/meal-rest-breaks.md) | draft | |
 | [wage-discussions.md](policies/04-compensation/wage-discussions.md) | draft | |
 
 ## Section 5: Scheduling & Attendance
@@ -114,8 +116,8 @@
 
 ## Summary
 
-- **Total policies:** 42
-- **Draft:** 42
+- **Total policies:** 44
+- **Draft:** 44
 - **In Review:** 0
 - **Approved:** 0
 - **Active:** 0
@@ -125,10 +127,8 @@
 | Policy | What's Needed |
 |--------|---------------|
 | welcome-letter.md | Personal message from Becky/Justin |
-| tips.md | Tip pool percentages and structure |
-| meal-rest-breaks.md | Employee meal benefits details |
+| tips.md | Tip sharing guidance (not tip pool) |
 | social-media.md | Full social media guidelines |
 | cell-phones.md | Phone usage and storage rules |
 | emergency-procedures.md | Fire, weather, medical, robbery procedures |
 | food-safety.md | Food safety basics or reference to training |
-| discipline.md | Progressive discipline details (optional) |
