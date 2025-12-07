@@ -16,7 +16,7 @@ MKC Restaurants is the operating group for both Margie's Kitchen & Cocktails in 
 **Phone:** (763) 205-4762
 **Website:** www.margies-kitchen.com
 
-Opened in 2020, Margie's Kitchen & Cocktails is named after Justin's grandmother, Marge, who owned and operated Lyle's Cafe in Winthrop, Minnesota for nearly 40 years. Beyond the home cooking and pies she made Lyle's Cafe famous for, Marge made the cafe the center of her community. We honor her legacy by making Margie's a fixture in the Maple Grove community—a place where everyone is welcome.
+Opened in 2020, Margie's Kitchen & Cocktails is named after Justin's grandmother, Marge, who owned and operated Lyle's Cafe in Winthrop, Minnesota for nearly 40 years. Beyond the home cooking and pies she made Lyle's Cafe famous for, Marge made the cafe the center of her community. We honor her legacy by making Margie's a fixture in the Andover community—a place where everyone is welcome.
 
 ## Grackle
 
