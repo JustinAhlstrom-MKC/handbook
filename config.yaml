@@ -24,6 +24,7 @@ sections:
   - id: 01-welcome
     title: Welcome & About Us
     policies:
+      - welcome-letter.md
       - about-mkc.md
       - mission-values.md
       - behavior-expectations.md
@@ -35,6 +36,7 @@ sections:
       - at-will.md
       - eeo.md
       - accommodations.md
+      - introductory-period.md
 
   - id: 03-conduct
     title: Workplace Conduct
@@ -44,12 +46,17 @@ sections:
       - workplace-violence.md
       - substance-free.md
       - personal-relationships.md
+      - confidentiality.md
+      - outside-employment.md
       - retaliation.md
 
   - id: 04-compensation
     title: Compensation & Time Off
     policies:
+      - pay-and-timekeeping.md
       - work-hours-overtime.md
+      - tips.md
+      - meal-rest-breaks.md
       - pto-policy.md
       - mn-esst.md
       - mn-paid-leave.md
@@ -77,6 +84,7 @@ sections:
   - id: 08-safety
     title: Safety & Security
     policies:
+      - injury-reporting.md
       - parking.md
       - building-access.md
       - emergency-procedures.md
@@ -87,6 +95,7 @@ sections:
     policies:
       - personnel-files.md
       - discipline.md
+      - separation.md
       - handbook-changes.md
 
   - id: 10-acknowledgement
