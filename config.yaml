@@ -57,11 +57,11 @@ sections:
       - pay-and-timekeeping.md
       - work-hours-overtime.md
       - tips.md
-      - meal-rest-breaks.md
       - pto-policy.md
       - mn-esst.md
       - mn-paid-leave.md
       - benefits.md
+      - meal-rest-breaks.md
       - wage-discussions.md
 
   - id: 05-scheduling
@@ -86,11 +86,11 @@ sections:
   - id: 08-safety
     title: Safety & Security
     policies:
-      - injury-reporting.md
-      - parking.md
-      - building-access.md
-      - emergency-procedures.md
       - food-safety.md
+      - injury-reporting.md
+      - emergency-procedures.md
+      - building-access.md
+      - parking.md
 
   - id: 09-administrative
     title: Administrative
