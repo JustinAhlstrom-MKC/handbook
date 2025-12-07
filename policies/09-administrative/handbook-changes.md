@@ -2,7 +2,7 @@
 title: Changes to This Handbook
 version: 1.0.0
 effective_date: 2025-01-01
-status: active
+status: draft
 applies_to: all
 ---
 
