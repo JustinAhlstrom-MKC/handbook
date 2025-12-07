@@ -1,0 +1,105 @@
+# MKC Restaurants Employee Handbook Configuration
+
+company:
+  name: MKC Restaurants
+  legal_name: MKC Restaurants LLC
+
+locations:
+  - name: Margie's Kitchen & Cocktails
+    address: 16691 Zurich St NE, Andover, MN 55304
+    phone: (763) 205-4762
+    website: www.margies-kitchen.com
+  - name: Grackle
+    address: 11852 Elm Creek Blvd N, Maple Grove, MN 55369
+    phone: (763) 898-3140
+    website: www.gracklegrove.com
+
+handbook:
+  title: MKC Restaurants Employee Handbook
+  version: 1.0.0
+  effective_date: 2025-01-01
+
+# Section ordering and titles for build
+sections:
+  - id: 01-welcome
+    title: Welcome & About Us
+    policies:
+      - about-mkc.md
+      - mission-values.md
+      - behavior-expectations.md
+      - contacts.md
+
+  - id: 02-employment
+    title: Employment Basics
+    policies:
+      - at-will.md
+      - eeo.md
+      - accommodations.md
+
+  - id: 03-conduct
+    title: Workplace Conduct
+    policies:
+      - safe-inclusive-environment.md
+      - harassment.md
+      - workplace-violence.md
+      - substance-free.md
+      - personal-relationships.md
+      - retaliation.md
+
+  - id: 04-compensation
+    title: Compensation & Time Off
+    policies:
+      - work-hours-overtime.md
+      - pto-policy.md
+      - mn-esst.md
+      - mn-paid-leave.md
+      - wage-discussions.md
+
+  - id: 05-scheduling
+    title: Scheduling & Attendance
+    policies:
+      - attendance.md
+
+  - id: 06-appearance
+    title: Appearance & Professionalism
+    policies:
+      - on-stage.md
+      - appearance-standards.md
+      - smoking.md
+
+  - id: 07-technology
+    title: Technology & Systems
+    policies:
+      - technology-systems.md
+      - social-media.md
+      - cell-phones.md
+
+  - id: 08-safety
+    title: Safety & Security
+    policies:
+      - parking.md
+      - building-access.md
+      - emergency-procedures.md
+      - food-safety.md
+
+  - id: 09-administrative
+    title: Administrative
+    policies:
+      - personnel-files.md
+      - discipline.md
+      - handbook-changes.md
+
+  - id: 10-acknowledgement
+    title: Acknowledgement
+    policies:
+      - acknowledgement.md
+
+# Build settings
+build:
+  output_dir: output
+  formats:
+    - docx
+    - pdf
+  include_toc: true
+  include_cover: true
+  exclude_draft: false  # Set to true to exclude draft policies from build
