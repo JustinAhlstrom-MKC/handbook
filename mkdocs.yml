@@ -1,0 +1,95 @@
+site_name: MKC Restaurants Employee Handbook
+site_description: Employee handbook for Margie's Kitchen & Cocktails and Grackle
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: default  # Light background
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - toc.integrate
+  status: {}
+
+extra_css:
+  - assets/custom.css
+
+docs_dir: policies
+
+nav:
+  - Home: index.md
+  - Welcome & About Us:
+    - 01-welcome/welcome-letter.md
+    - 01-welcome/about-mkc.md
+    - 01-welcome/mission-values.md
+    - 01-welcome/behavior-expectations.md
+    - 01-welcome/contacts.md
+  - Employment Basics:
+    - 02-employment/at-will.md
+    - 02-employment/employee-classifications.md
+    - 02-employment/eeo.md
+    - 02-employment/accommodations.md
+    - 02-employment/introductory-period.md
+  - Workplace Conduct:
+    - 03-conduct/safe-inclusive-environment.md
+    - 03-conduct/harassment.md
+    - 03-conduct/workplace-violence.md
+    - 03-conduct/substance-free.md
+    - 03-conduct/personal-relationships.md
+    - 03-conduct/confidentiality.md
+    - 03-conduct/outside-employment.md
+    - 03-conduct/retaliation.md
+  - Compensation & Time Off:
+    - 04-compensation/pay-and-timekeeping.md
+    - 04-compensation/work-hours-overtime.md
+    - 04-compensation/tips.md
+    - 04-compensation/pto-policy.md
+    - 04-compensation/mn-paid-leave.md
+    - 04-compensation/benefits.md
+    - 04-compensation/meal-rest-breaks.md
+    - 04-compensation/wage-discussions.md
+  - Scheduling & Attendance:
+    - 05-scheduling/attendance.md
+  - Appearance & Professionalism:
+    - 06-appearance/on-stage.md
+    - 06-appearance/appearance-standards.md
+    - 06-appearance/smoking.md
+  - Technology & Systems:
+    - 07-technology/technology-systems.md
+    - 07-technology/social-media.md
+    - 07-technology/cell-phones.md
+  - Safety & Security:
+    - 08-safety/food-safety.md
+    - 08-safety/injury-reporting.md
+    - 08-safety/emergency-procedures.md
+    - 08-safety/building-access.md
+    - 08-safety/parking.md
+  - Administrative:
+    - 09-administrative/personnel-files.md
+    - 09-administrative/discipline.md
+    - 09-administrative/separation.md
+    - 09-administrative/handbook-changes.md
+  - Acknowledgement:
+    - 10-acknowledgement/acknowledgement.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+
+# Block search engines from indexing
+extra:
+  generator: false  # Remove "Made with MkDocs" from footer
+
+plugins:
+  - search
+
+# Add noindex meta tag to all pages
+hooks: []

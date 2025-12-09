@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+
+  {% if page.meta and page.meta.version %}
+  <hr style="margin-top: 3rem;">
+  <p style="font-size: 0.8rem; color: #666;">
+    <em>Version {{ page.meta.version }}{% if page.meta.effective_date %} | Effective {{ page.meta.effective_date }}{% endif %}</em>
+  </p>
+  {% endif %}
+{% endblock %}
