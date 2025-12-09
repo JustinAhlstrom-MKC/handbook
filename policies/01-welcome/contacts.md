@@ -23,7 +23,7 @@ applies_to: all
 ## Ownership
 
 - **Justin Ahlstrom:** justin@margies-kitchen.com / (612) 819-4616
-- **Becky Ahlstrom:** becky@margies-kitchen.com
+- **Becky Ahlstrom:** becky@margies-kitchen.com / (612) 308-2162
 
 ## Management Contacts
 
