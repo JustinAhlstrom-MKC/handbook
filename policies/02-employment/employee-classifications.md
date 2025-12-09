@@ -31,9 +31,9 @@ Managers and other employees classified as exempt from overtime requirements und
 When you are hired, you will be assigned an initial classification based on your expected schedule.
 
 **Initial Full-Time Qualification:**
-New employees must average 30+ hours per week during their first **90 days of employment** to qualify as full-time. Your status will be evaluated at the end of this 90-day period.
+New employees must average 30+ hours per week during their first **30 days of employment** to qualify as full-time.
 
-After your initial 90-day evaluation, your classification will be reviewed according to the quarterly schedule below.
+After your initial 30-day evaluation, your classification will be reviewed according to the quarterly schedule below.
 
 ### Ongoing Classification Reviews
 
@@ -62,10 +62,10 @@ If you lose full-time status, you can regain it by averaging 30+ hours per week 
 
 ## Hours Calculation
 
-Average weekly hours are calculated by dividing total hours worked during the measurement period by the number of weeks in that period.
+Average weekly hours are calculated by dividing total hours worked during the measurement period by the number of weeks worked in that period.
 
-- **Initial 90-day period:** Total hours worked ÷ approximately 13 weeks
-- **Quarterly review:** Total hours worked in quarter ÷ 13 weeks
+- **Initial 30-day period:** Total hours worked ÷ approximately 4 weeks
+- **Quarterly review:** Total hours worked in quarter ÷ total weeks worked (typically 13 weeks)
 
 ## Questions
 

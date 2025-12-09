@@ -24,9 +24,9 @@ Your eligibility for time off benefits depends on your employee classification. 
 
 | Classification | Sick & Safe Time | Vacation/PTO |
 |----------------|------------------|--------------|
-| Part-Time Hourly | 48 hrs/year | None |
-| Full-Time Hourly | 48 hrs/year | 40 hrs/year |
-| Exempt Management | 48 hrs/year | 80 hrs/year |
+| Part-Time Hourly | Accrued up to 48 hrs/year | None |
+| Full-Time Hourly | Accrued up to 48 hrs/year | Accrued up to 40 hrs/year |
+| Exempt Management | Accrued up to 48 hrs/year | Accrued up to 80 hrs/year |
 
 ---
 

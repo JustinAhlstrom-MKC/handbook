@@ -22,13 +22,13 @@ This policy outlines eligibility and enrollment information. Plan details and co
 
 ## Employee Assistance Program (EAP)
 
-**All employees** have access to the Employee Assistance Program through Sand Creek, regardless of classification. The EAP provides free, confidential support for personal and work-related challenges, including:
+**All employees** have access to the Employee Assistance Program through AllOne Health, regardless of classification. The EAP provides free, confidential support for personal and work-related challenges, including:
 
 - Counseling services
 - Work-life resources
 - Financial and legal guidance
 
-Contact information for Sand Creek is available from your manager or HR.
+Contact information for AllOne Health is available from your manager or HR.
 
 ## Enrollment
 
@@ -38,7 +38,7 @@ Eligible employees may enroll in benefits:
 - Within **30 days of becoming eligible** (new hire or gaining full-time status)
 - Following a **qualifying life event** (marriage, birth of child, loss of other coverage, etc.)
 
-Enrollment is completed through ADP. Contact your manager or HR for assistance.
+Enrollment is completed through your manager. Contact your manager or HR for assistance.
 
 ## If You Lose Full-Time Status
 
@@ -57,7 +57,7 @@ If you lose benefits due to part-time status and later regain full-time status, 
 
 ## Cost
 
-Employees who enroll in benefits share the cost of coverage through payroll deductions. Current contribution amounts are available from HR or in ADP.
+Employees who enroll in benefits share the cost of coverage through payroll deductions. Current contribution amounts are available from HR.
 
 ## Questions
 
