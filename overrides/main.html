@@ -9,8 +9,8 @@
 
   {% if page.meta and page.meta.version %}
   <hr style="margin-top: 3rem;">
-  <p style="font-size: 0.8rem; color: #666;">
-    <em>Version {{ page.meta.version }}{% if page.meta.effective_date %} | Effective {{ page.meta.effective_date }}{% endif %}</em>
+  <p style="font-size: 0.75rem; color: #888;">
+    {{ page.meta.title }}{% if page.meta.version %} | Version {{ page.meta.version }}{% endif %}{% if page.meta.effective_date %} | Effective {{ page.meta.effective_date }}{% endif %}{% if page.meta.status %} | Status: {{ page.meta.status }}{% endif %}
   </p>
   {% endif %}
 {% endblock %}

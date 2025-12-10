@@ -1,6 +1,6 @@
 ---
 title: Employee Classifications
-version: 1.0.0
+version: 1.0
 effective_date: 2025-01-01
 status: draft
 applies_to: all
@@ -54,7 +54,7 @@ If you are part-time and your average hours increase to 30+ per week for a full 
 
 ### Losing Full-Time Status
 
-If you are full-time and your average hours fall below 30 per week for a full quarter, you will be reclassified as part-time on the next review date. See the **Time Off Policy** and **Benefits Policy** for how reclassification affects those programs.
+If you are full-time and your average hours fall below 30 per week for a full quarter, you will be reclassified as part-time on the next review date. See the [Time Off Policy](../04-compensation/pto-policy.md) and [Benefits](../04-compensation/benefits.md) for how reclassification affects those programs.
 
 ### Regaining Full-Time Status
 

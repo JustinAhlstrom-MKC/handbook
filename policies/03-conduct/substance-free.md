@@ -1,6 +1,6 @@
 ---
 title: Substance-Free Workplace
-version: 1.0.0
+version: 1.0
 effective_date: 2025-01-01
 status: draft
 applies_to: all

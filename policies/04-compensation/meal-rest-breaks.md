@@ -1,6 +1,6 @@
 ---
 title: Meal & Rest Breaks
-version: 1.0.0
+version: 1.0
 effective_date: 2025-01-01
 status: draft
 applies_to: all
@@ -44,4 +44,4 @@ Managers will work to ensure you receive your entitled breaks. Due to the nature
 
 ## Nursing Mothers
 
-Nursing mothers are entitled to reasonable break time and a private space to express breast milk. See our Reasonable Accommodations policy for details.
+Nursing mothers are entitled to reasonable break time and a private space to express breast milk. See our [Reasonable Accommodations](../02-employment/accommodations.md) policy for details.

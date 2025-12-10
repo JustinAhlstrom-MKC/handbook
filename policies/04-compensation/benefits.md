@@ -1,6 +1,6 @@
 ---
 title: Benefits
-version: 1.0.0
+version: 1.0
 effective_date: 2025-01-01
 status: draft
 applies_to: all
@@ -18,7 +18,7 @@ This policy outlines eligibility and enrollment information. Plan details and co
 
 ## Health & Dental Eligibility
 
-**Full-Time Hourly** and **Exempt Management** employees are eligible for health and dental benefits. See the **Employee Classifications** policy for how full-time status is determined.
+**Full-Time Hourly** and **Exempt Management** employees are eligible for health and dental benefits. See the [Employee Classifications](../02-employment/employee-classifications.md) policy for how full-time status is determined.
 
 ## Employee Assistance Program (EAP)
 

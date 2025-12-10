@@ -1,6 +1,6 @@
 ---
 title: Time Off Policy
-version: 1.0.0
+version: 1.0
 effective_date: 2025-01-01
 status: draft
 applies_to: all
@@ -18,7 +18,7 @@ This policy covers two types of paid time off:
 
 - **Vacation/PTO:** Additional paid time off for personal use—whether for rest, travel, family events, or any reason you choose. Available to full-time hourly employees and exempt management.
 
-Your eligibility for time off benefits depends on your employee classification. See the **Employee Classifications** policy for details on how full-time and part-time status is determined.
+Your eligibility for time off benefits depends on your employee classification. See the [Employee Classifications](../02-employment/employee-classifications.md) policy for details on how full-time and part-time status is determined.
 
 ## Time Off by Classification
 
@@ -82,7 +82,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 
 **Accrual:**
 - **Rate:** 0.0192 hours per hour worked (approximately 40 hours/year at full-time)
-- **Begins:** After qualifying as full-time (see Employee Classifications policy)
+- **Begins:** After qualifying as full-time (see [Employee Classifications](../02-employment/employee-classifications.md))
 - **Balance Cap:** Up to 40 hours carryover
 
 **If you lose full-time status:** PTO accrual stops, but any accrued balance remains available to use.
