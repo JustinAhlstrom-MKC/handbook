@@ -33,6 +33,7 @@ We will provide you with the necessary claim forms and information if you are in
 ## Reporting Requirements
 
 **All injuries must be reported, even if:**
+
 - The injury seems minor
 - You don't think you need medical attention
 - You're not sure if it happened at work
