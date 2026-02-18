@@ -10,6 +10,6 @@ applies_to: all
 
 **To complete your acknowledgement, submit the form below:**
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appVWDqRGdBqhvfEj/pagzgCR2WphrlaxGr/form" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appVWDqRGdBqhvfEj/pagzgCR2WphrlaxGr/form" frameborder="0" onmousewheel="" width="100%" height="1100" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 *Your acknowledgement will be recorded and filed in your personnel file.*
