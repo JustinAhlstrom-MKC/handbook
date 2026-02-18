@@ -17,7 +17,7 @@ locations:
 handbook:
   title: MKC Restaurants Employee Handbook
   version: 1.0.0
-  effective_date: 2025-01-01
+  effective_date: 2026-01-01
 
 # Section ordering and titles for build
 sections:

@@ -50,4 +50,4 @@ Talk to your manager or reach out to Becky or Justin directly. Our door is alway
 
 ---
 
-<small>*This handbook is for internal use only. Last updated January 2025.*</small>
+<small>*This handbook is for internal use only. Last updated January 2026.*</small>

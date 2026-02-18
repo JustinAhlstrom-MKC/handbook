@@ -1,7 +1,7 @@
 ---
 title: About MKC Restaurants
 version: 1.0
-effective_date: 2025-01-01
+effective_date: 2026-01-01
 status: active
 applies_to: all
 ---
