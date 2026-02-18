@@ -22,6 +22,8 @@ Please read the following statements and complete the online acknowledgement for
 
 - I understand that my submission of the online acknowledgement form indicates that I have read and understand the above statements and have been provided access to the MKC Restaurants Employee Handbook and agree to comply with the policies and procedures contained therein, including the policies and procedures regarding reporting and resolution of harassment and other offensive behavior.
 
-**To complete your acknowledgement, submit the online form provided by your manager.**
+**To complete your acknowledgement, submit the form below:**
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appVWDqRGdBqhvfEj/pagzgCR2WphrlaxGr/form" frameborder="0" onmousewheel="" width="100%" height="1150" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 *Your acknowledgement will be recorded and filed in your personnel file.*
