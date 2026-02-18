@@ -14,4 +14,8 @@ While at work, MKC Restaurants expects employees to keep personal exchanges limi
 
 Individuals in supervisory/management or other influential roles are subject to more stringent requirements under this policy due to their ability to influence others, affect tenure, promotions, and terms and conditions of employment of their staff.
 
-An employee in a management or supervisory position over another employee who has developed a relationship with that employee that a reasonable person would determine is beyond normal friendship should inform his/her manager of the relationship.
+## Disclosure
+
+An employee in a management or supervisory position who develops a romantic relationship with someone they supervise or influence must disclose the relationship to ownership promptly. Failure to disclose may result in reassignment of reporting relationships or other corrective action.
+
+Disclosure allows us to address potential conflicts of interest — such as adjusting scheduling, reporting structures, or performance review responsibilities — to protect everyone involved.

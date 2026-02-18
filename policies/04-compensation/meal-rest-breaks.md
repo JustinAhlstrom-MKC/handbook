@@ -1,42 +1,26 @@
 ---
 title: Meal & Rest Breaks
-version: 1.0
-effective_date: 2025-01-01
+version: 1.2
+effective_date: 2026-01-01
 status: draft
 applies_to: all
 ---
 
 # Meal & Rest Breaks
 
-MKC Restaurants provides breaks in accordance with Minnesota law and our commitment to employee wellbeing.
+MKC Restaurants values employee wellbeing and provides meal and rest breaks in compliance with Minnesota law (Minn. Stat. 177.253).
 
 ## Rest Breaks
 
-Employees working 4 or more consecutive hours are entitled to reasonable time to use the restroom. You do not need to clock out for restroom breaks.
+Employees working 4 or more consecutive hours are entitled to at least one paid 15-minute rest break, including sufficient time to use the restroom, within each four-hour period of work. You do not need to clock out for rest breaks.
 
 ## Meal Breaks
 
-Employees working 8 or more consecutive hours are entitled to a meal break of sufficient time to eat. The timing of meal breaks will be determined by your manager based on business needs.
+Employees working 6 or more consecutive hours are entitled to a paid meal break of at least 30 minutes. The timing of your meal break will be determined by your manager based on business needs.
 
-<!-- PLACEHOLDER: Clarify if meal breaks are paid or unpaid, and duration -->
+If you are unable to take your full meal break for any reason, notify your manager immediately.
 
-**Meal Break Guidelines:**
-- Meal breaks are typically [30 minutes / unpaid] for shifts of 8+ hours
-- You must clock out for unpaid meal breaks
-- Meal breaks should be taken away from your work station when possible
-- If you are required to remain on duty during your meal break, you will be paid for that time
-
-## Employee Meals
-
-<!-- PLACEHOLDER: Define employee meal policy - discounts, free meals during shifts, etc. -->
-
-MKC Restaurants provides [employee meal benefits - customize]:
-
-- [Example: 50% discount on food during shifts]
-- [Example: One free meal per shift worked]
-- [Example: Specific menu items available for employee meals]
-
-Employee meals must be consumed on-site and may not be taken home. Meals for family or friends are not included in employee meal benefits.
+Employees may voluntarily choose to waive a meal or rest break, but you will never be required or pressured to do so.
 
 ## Scheduling Breaks
 
@@ -44,4 +28,4 @@ Managers will work to ensure you receive your entitled breaks. Due to the nature
 
 ## Nursing Mothers
 
-Nursing mothers are entitled to reasonable break time and a private space to express breast milk. See our [Reasonable Accommodations](../02-employment/accommodations.md) policy for details.
+Nursing mothers are entitled to paid break time and a private space (not a restroom) to express breast milk for as long as the employee has the need. MKC Restaurants will not reduce your compensation for time used to express milk, and you will not face retaliation for requesting these breaks. See our [Reasonable Accommodations](../02-employment/accommodations.md) policy for additional details.

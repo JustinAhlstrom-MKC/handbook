@@ -10,9 +10,7 @@ applies_to: all
 
 ## Pay Schedule
 
-<!-- PLACEHOLDER: Confirm pay frequency and adjust as needed -->
-
-MKC Restaurants pays employees on a **bi-weekly** basis. Pay periods run from Monday through Sunday. Paychecks are issued on the Friday following the end of each pay period.
+MKC Restaurants pays employees on a **bi-weekly** basis. Each pay period covers two weeks, running from Monday through the second Sunday. Paychecks are issued on the Friday following the end of each pay period.
 
 If a payday falls on a holiday, you will typically be paid on the preceding business day.
 

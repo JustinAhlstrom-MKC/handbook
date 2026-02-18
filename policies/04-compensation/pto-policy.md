@@ -28,11 +28,27 @@ Your eligibility for time off benefits depends on your employee classification. 
 | Full-Time Hourly | Accrued up to 48 hrs/year | Accrued up to 40 hrs/year |
 | Exempt Management | Accrued up to 48 hrs/year | Accrued up to 80 hrs/year |
 
+## Quick Reference: Scheduling and Pay
+
+Scheduling time off (through 7shifts) and requesting paid time off are **two separate steps**. The table below shows how common situations work.
+
+| Situation | Scheduling | Paid Time Off |
+|-----------|------------|---------------|
+| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | PTO only — submit a PTO request through the online form. SST does not apply. |
+| **Doctor's appointment** | Request off in 7shifts as early as possible. If the schedule is already published, talk to your manager or find coverage. | SST or PTO — submit a request through the online form. |
+| **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the online form. |
+| **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the online form. |
+| **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | PTO only (if you want to be paid for the day) — submit a PTO request through the online form. SST does not apply. |
+
+**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting paid time off (PTO or SST) is a separate step done through the online form.
+
+**Key distinction:** Sick and Safe Time can only be used for qualifying reasons (illness, medical care, safety situations, and other reasons listed below). Vacation/PTO can be used for any reason. When a situation qualifies for both, you choose which to use.
+
 ---
 
 ## Sick and Safe Time
 
-All employees earn Sick and Safe Time in compliance with Minnesota's Earned Sick and Safe Time (ESST) law.
+All employees earn Sick and Safe Time in compliance with Minnesota's Earned Sick and Safe Time (ESST) law. This policy serves as notice of your rights under Minnesota's Earned Sick and Safe Time law. You have the right to accrue and use sick and safe time as described below. MKC Restaurants will not retaliate against you for requesting or using sick and safe time.
 
 ### Accrual
 
@@ -81,7 +97,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 ### Full-Time Hourly Employees
 
 **Accrual:**
-- **Rate:** 0.0192 hours per hour worked (approximately 40 hours/year at full-time)
+- **Rate:** 0.0192 hours per hour worked (not to exceed 40 hours per year)
 - **Begins:** After qualifying as full-time (see [Employee Classifications](../02-employment/employee-classifications.md))
 - **Balance Cap:** Up to 40 hours carryover
 
@@ -90,7 +106,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 ### Exempt Management
 
 **Accrual:**
-- **Rate:** 3.08 hours per pay period (approximately 80 hours/year)
+- **Rate:** 3.08 hours per pay period (not to exceed 80 hours per year)
 - **Begins:** First pay period after hire
 - **Balance Cap:** Up to 40 hours carryover
 

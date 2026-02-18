@@ -1,6 +1,6 @@
 ---
 title: Work Hours & Overtime
-version: 1.0
+version: 1.1
 effective_date: 2025-01-01
 status: draft
 applies_to: all
@@ -18,7 +18,7 @@ The normal work week for MKC Restaurants is 40 hours. For purposes of overtime c
 
 Exempt employees are not eligible to receive overtime pay because they are exempt from the provisions of the Fair Labor Standards Act (FLSA), state, and local laws. Exempt employees are paid a constant salary regardless of the hours worked.
 
-Non-exempt employees are paid for hours worked; therefore, time worked must be accurately recorded in ADP.
+Non-exempt employees are paid for hours worked; therefore, time worked must be accurately recorded in TOAST.
 
 ## Overtime
 
@@ -26,4 +26,4 @@ Non-exempt employees are paid the overtime rate of one and one-half times their 
 
 Overtime should be approved in advance by your manager. Employees who work overtime without obtaining proper authorization may be subject to disciplinary action. Regardless of whether the overtime was approved or not, employees will be paid for all hours worked.
 
-Non-exempt employees cannot waive overtime pay. However, if a supervisor wishes to give a non-exempt employee time off to make up for extra hours worked, time off must be given and used by the employee in the same work week.
+Your schedule may be adjusted within the same workweek to ensure overtime is not worked or to reduce overtime. However, once overtime is worked, it must be paid — it cannot be replaced with future time off.

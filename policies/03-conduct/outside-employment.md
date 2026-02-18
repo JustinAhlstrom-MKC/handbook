@@ -8,7 +8,7 @@ applies_to: all
 
 # Outside Employment
 
-MKC Restaurants recognizes that some employees may hold jobs with other employers or engage in freelance work. While we do not prohibit outside employment, we expect that any additional work does not interfere with your responsibilities here.
+MKC Restaurants recognizes that some employees may hold jobs with other employers or engage in freelance work. We respect your right to engage in lawful activities outside of work. While we do not prohibit outside employment, we ask that any additional work does not interfere with your responsibilities here.
 
 ## Expectations
 

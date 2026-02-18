@@ -32,6 +32,11 @@ Managers are responsible to prevent and stop harassment. Managers are required t
 
 MKC Restaurants takes allegations of harassment seriously. We encourage applicants and employees to tell any manager if they believe they have been harassed or have witnessed harassment. You may contact them in any manner you feel most comfortable, including via phone, email, in-person discussion, or letter.
 
+If you are uncomfortable reporting to your direct manager — including if they are involved — you may report directly to ownership:
+
+- **Justin:** justin@margies-kitchen.com
+- **Becky:** becky@margies-kitchen.com
+
 MKC Restaurants will keep allegations of harassment as confidential as possible. Only those individuals who need to know will know. That said, it may not be possible to keep all allegations confidential as an investigation and action may be necessary.
 
 ## Investigation

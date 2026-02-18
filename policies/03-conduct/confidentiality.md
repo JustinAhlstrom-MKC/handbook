@@ -28,7 +28,7 @@ Confidential information includes, but is not limited to:
 - Only access confidential information necessary for your job duties
 - Do not photograph or copy recipes, prep sheets, or other proprietary materials
 - Protect guest payment information and never write down full card numbers
-- Do not discuss employee wages, schedules, or personal matters with guests
+- Respect employee privacy — do not share other employees' personal information with guests without their consent
 - Keep security codes and passwords private
 
 ## Social Media

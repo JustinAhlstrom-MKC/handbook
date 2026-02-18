@@ -9,3 +9,5 @@ applies_to: all
 # At-Will Employment
 
 Employment at MKC Restaurants is "at will." This means that either you or the Company may terminate the employment relationship at any time, with or without cause, and with or without notice. No contract other than "at will" has been expressed or implied, and no circumstances arising out of your employment will alter your "at will" employment relationship unless expressed in writing and signed by both you and Justin Ahlstrom.
+
+This handbook is intended to provide guidelines and general information about MKC Restaurants' policies and procedures. It does not create a contract of employment, express or implied, nor does it guarantee any fixed terms or conditions of employment.

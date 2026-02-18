@@ -44,8 +44,8 @@ Enrollment is completed through your manager. Contact your manager or HR for ass
 
 If your classification changes from full-time to part-time:
 
-- **Probationary Quarter:** Your health and dental coverage continues for one probationary quarter
-- **Second Consecutive Quarter:** If your hours remain below 30/week for two consecutive quarters, health and dental benefits will end at the close of the second quarter
+- **Probationary Quarter:** Your health and dental coverage continues for one probationary quarter. During this time, the normal cost sharing between you and MKC Restaurants remains the same — your premium contributions continue through payroll deductions as usual.
+- **Second Consecutive Quarter:** If your hours remain below 30/week for two consecutive quarters, health and dental benefits will end at the close of the second quarter. You will receive information about your options for continuing coverage under COBRA.
 - **Return to Full-Time:** If your hours return to 30+/week during the probationary quarter, you remain benefits-eligible with no interruption
 
 ## Regaining Eligibility

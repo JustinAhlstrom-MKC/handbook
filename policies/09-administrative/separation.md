@@ -23,7 +23,7 @@ Notice should be provided in writing to your manager. Providing adequate notice 
 
 **Voluntary resignation:** Your final paycheck will be issued on the next regular payday.
 
-**Involuntary termination:** Your final paycheck will be issued within 24 hours if you were terminated, or on the next regular payday if separated for other reasons, in accordance with Minnesota law.
+**Involuntary termination:** Your final paycheck will be available within 24 hours upon your request, or at the next regular payday, in accordance with Minnesota law.
 
 Final pay will include:
 - All hours worked through your last day

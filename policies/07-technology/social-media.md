@@ -8,6 +8,26 @@ applies_to: all
 
 # Social Media
 
-Remember that our standards of behavior extend beyond the walls of the restaurant—this includes online behavior. Employees should not post content that could be considered harassment, bullying, or that misrepresents MKC Restaurants. When in doubt, do not post.
+We love that many of our employees are proud of where they work and share that online. At the same time, our standards of behavior extend beyond the walls of the restaurant — including online.
 
-<!-- PLACEHOLDER: Consider adding more specific social media guidelines - representing the company online, photography policies, etc. -->
+## Personal Social Media
+
+You are welcome to post about your experience at MKC Restaurants, including photos in uniform or tagging the restaurant, as long as the content is positive and in good taste. Use good judgment — if you wouldn't want a guest or your manager to see it, don't post it.
+
+When posting, keep in mind:
+
+- Do not share confidential business information (sales numbers, recipes, internal communications, unreleased menu items). See our [Confidentiality](../03-conduct/confidentiality.md) policy for details.
+- Do not post content that could be considered harassment, bullying, or discrimination
+- Make it clear that your views are your own and not those of MKC Restaurants
+
+## Official Accounts
+
+MKC Restaurants' official social media accounts are managed by ownership. Do not post on behalf of the restaurant or represent yourself as a spokesperson for MKC Restaurants unless specifically authorized.
+
+## Your Rights
+
+Nothing in this policy is intended to restrict your right to discuss wages, working conditions, or other terms of employment with coworkers, whether in person or online. These discussions are protected by law.
+
+## Questions
+
+If you're unsure whether something is appropriate to post, ask your manager.

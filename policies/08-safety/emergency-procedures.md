@@ -8,4 +8,6 @@ applies_to: all
 
 # Emergency Procedures
 
-<!-- PLACEHOLDER: Add emergency procedures - fire evacuation, severe weather, medical emergencies, robbery procedures, etc. -->
+The safety of our employees and guests is our top priority. Emergency procedures — including fire evacuation, severe weather shelter, medical emergencies, and security incidents — are posted at each location. Familiarize yourself with these procedures and the location of emergency exits, fire extinguishers, and first aid kits.
+
+If you have questions about emergency procedures at your location, ask your manager.
