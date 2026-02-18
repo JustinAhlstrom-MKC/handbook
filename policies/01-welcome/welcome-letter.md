@@ -8,8 +8,6 @@ applies_to: all
 
 # Welcome to MKC Restaurants
 
-<!-- PLACEHOLDER: Personal welcome message from Becky and/or Justin. Suggested content below - please personalize. -->
-
 Dear Team Member,
 
 Welcome to the MKC Restaurants family! Whether you're joining us at Margie's Kitchen & Cocktails or Grackle, we're thrilled to have you on our team.
