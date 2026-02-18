@@ -2,7 +2,7 @@
 title: Time Off Policy
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -114,9 +114,10 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 
 ## Requesting Time Off
 
-- Submit PTO requests through **7shifts** at least 3 weeks in advance
-- Time off requests are subject to approval based on business needs
-- Sick and Safe Time may be used without advance notice when the need is unforeseeable
+1. **Schedule the time off** — Request the day off in **7shifts** at least 3 weeks in advance. All time off requests are subject to approval based on business needs.
+2. **Request pay (if applicable)** — Submit a separate request through the **online form** for PTO or SST.
+
+For unplanned absences (illness, emergencies), call your manager before your shift and submit your paid time off request afterward.
 
 ## Payout at Termination
 
@@ -125,4 +126,4 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 
 ## Questions
 
-If you have questions about your time off balances or eligibility, check ADP or contact your manager.
+If you have questions about your time off balances or eligibility, contact your manager.

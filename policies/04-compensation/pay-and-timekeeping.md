@@ -2,7 +2,7 @@
 title: Pay Periods & Timekeeping
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -16,9 +16,9 @@ If a payday falls on a holiday, you will typically be paid on the preceding busi
 
 ## Direct Deposit
 
-We encourage all employees to enroll in direct deposit through ADP. Direct deposit ensures your pay is available on payday without needing to pick up or deposit a physical check.
+We encourage all employees to enroll in direct deposit. Direct deposit ensures your pay is available on payday without needing to pick up or deposit a physical check.
 
-To set up or change direct deposit, log in to ADP or contact management for assistance.
+To set up or change direct deposit, contact management for assistance.
 
 ## Timekeeping Requirements
 
@@ -43,7 +43,7 @@ If you forget to clock in or out, notify your manager immediately. Your manager 
 
 ## Time Record Review
 
-Review your time records regularly through 7shifts. If you believe there is an error in your hours in 7shifts or pay in ADP, report it to your manager right away. We will investigate and correct any errors promptly.
+Review your time records regularly through 7shifts. If you believe there is an error in your hours or pay, report it to your manager right away. We will investigate and correct any errors promptly.
 
 ## Payroll Deductions
 

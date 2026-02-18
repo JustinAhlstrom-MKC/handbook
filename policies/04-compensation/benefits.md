@@ -2,7 +2,7 @@
 title: Benefits
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -14,7 +14,7 @@ MKC Restaurants offers the following benefits:
 - **Dental Insurance** (full-time employees)
 - **Employee Assistance Program (EAP)** (all employees)
 
-This policy outlines eligibility and enrollment information. Plan details and costs are available in ADP during open enrollment.
+This policy outlines eligibility and enrollment information. Plan details and costs are available from management during open enrollment.
 
 ## Health & Dental Eligibility
 

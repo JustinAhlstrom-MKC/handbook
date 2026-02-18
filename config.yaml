@@ -6,7 +6,7 @@ company:
 
 locations:
   - name: Margie's Kitchen & Cocktails
-    address: 16691 Zurich St NE, Andover, MN 55304
+    address: 13735 Round Lake Blvd NW, Andover, MN 55304
     phone: (763) 205-4762
     website: www.margies-kitchen.com
   - name: Grackle
@@ -73,7 +73,6 @@ sections:
   - id: 06-appearance
     title: Appearance & Professionalism
     policies:
-      - on-stage.md
       - appearance-standards.md
       - smoking.md
 

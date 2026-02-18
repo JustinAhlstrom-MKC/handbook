@@ -2,7 +2,7 @@
 title: Work Hours & Overtime
 version: 1.1
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 

@@ -2,7 +2,7 @@
 title: Minnesota Paid Leave
 version: 1.1
 effective_date: 2026-01-01
-status: draft
+status: active
 applies_to: all
 ---
 

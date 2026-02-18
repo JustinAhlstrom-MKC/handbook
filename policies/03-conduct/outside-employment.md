@@ -2,7 +2,7 @@
 title: Outside Employment
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -26,7 +26,3 @@ You are not required to disclose outside employment. However, if your outside wo
 ## Management Employees
 
 Managers and employees in leadership roles should discuss any outside employment with ownership to ensure there are no conflicts with their responsibilities.
-
-## Scheduling
-
-We will work with you on scheduling when possible, but your availability for MKC shifts remains your responsibility. Frequent unavailability due to outside work may affect your scheduled hours.

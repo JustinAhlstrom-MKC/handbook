@@ -2,7 +2,7 @@
 title: Reasonable Accommodations
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -20,9 +20,5 @@ If you believe you may need an accommodation, contact any manager. We will then 
 4. **We implement an accommodation** — We will respond to accommodation requests promptly and implement an appropriate accommodation
 
 If an accommodation is not working effectively, let your manager know so we can revisit and adjust as needed.
-
-## Nursing Mothers
-
-MKC Restaurants will provide nursing mothers a private space (other than a bathroom stall) and reasonable break time to any employee who needs to express breast milk for her child. When possible, break time should run concurrently with regular break times already provided. For non-exempt employees, this break time will be unpaid unless the break coincides with a paid break period.
 
 If you have any questions or need accommodation, please contact any manager.

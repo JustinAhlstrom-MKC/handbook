@@ -2,7 +2,7 @@
 title: Meal & Rest Breaks
 version: 1.2
 effective_date: 2026-01-01
-status: draft
+status: active
 applies_to: all
 ---
 

@@ -2,7 +2,7 @@
 title: Introductory Period
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
@@ -15,7 +15,7 @@ The first 90 days of employment are considered an introductory period. This time
 During this time, you will:
 
 - Complete all required training and onboarding
-- Learn our systems (TOAST, 7shifts, ADP)
+- Learn our systems (TOAST, 7shifts)
 - Demonstrate your ability to perform your job duties
 - Show that you can work effectively with our team and serve our guests
 

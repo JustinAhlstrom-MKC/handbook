@@ -2,7 +2,7 @@
 title: Food Safety
 version: 1.0
 effective_date: 2025-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
