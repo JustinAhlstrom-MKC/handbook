@@ -97,6 +97,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 ### Full-Time Hourly Employees
 
 **Accrual:**
+
 - **Rate:** 0.0192 hours per hour worked (not to exceed 40 hours per year)
 - **Begins:** After qualifying as full-time (see [Employee Classifications](../02-employment/employee-classifications.md))
 - **Balance Cap:** Up to 40 hours carryover
@@ -106,6 +107,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 ### Exempt Management
 
 **Accrual:**
+
 - **Rate:** 3.08 hours per pay period (not to exceed 80 hours per year)
 - **Begins:** First pay period after hire
 - **Balance Cap:** Up to 40 hours carryover
