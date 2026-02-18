@@ -41,6 +41,7 @@ This handbook contains the policies, guidelines, and information you need as a m
 | [Compensation & Time Off](04-compensation/pay-and-timekeeping.md) | Pay, PTO, benefits |
 | [Scheduling](05-scheduling/attendance.md) | Attendance expectations |
 | [Safety](08-safety/food-safety.md) | Food safety, emergencies, injury reporting |
+| [Acknowledgement](10-acknowledgement/acknowledgement.md) | Read and acknowledge the handbook |
 
 ---
 
