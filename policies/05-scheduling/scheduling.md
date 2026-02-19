@@ -14,9 +14,14 @@ MKC Restaurants builds schedules based on business needs, and assigns shifts bas
 
 Being scheduled for a certain number of hours in one week does not create an expectation or entitlement to the same hours in future weeks.
 
-## Your Role in Scheduling
+## Your Responsibilities
 
-You are expected to keep your availability up to date in 7shifts. If your availability changes, update it promptly so managers can plan accordingly.
+We use 7shifts to manage scheduling. You are expected to:
+
+- Set your recurring availability and note scheduling preferences in 7shifts
+- Update your availability promptly when it changes so managers can plan accordingly
+- Request time off at least 3 weeks ahead of time
+- Understand that time off requests are not guaranteed
 
 Managers will do their best to consider your preferences, but operational needs come first. Flexibility with your availability — including willingness to work weekends, holidays, and non-prime shifts — is valued and may be considered when building schedules.
 

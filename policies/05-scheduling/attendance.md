@@ -8,19 +8,11 @@ applies_to: all
 
 # Attendance Expectations
 
-Fully staffed shifts are essential to our success. Prompt and regular attendance is a condition of employment for all employees. MKC Restaurants encourages and reinforces good attendance and punctuality.
+Fully staffed shifts are essential to our success. Prompt and regular attendance is a condition of employment for all employees. **You are responsible for working every shift scheduled or finding adequate coverage. Everyone arrives on time and ready to serve our community.**
 
-**Managers are responsible for scheduling appropriate staffing levels. Team members are responsible for working every shift scheduled or finding adequate coverage. Everyone arrives on time and ready to serve our community.**
+## Shift Coverage
 
-## Using 7shifts
-
-We use 7shifts to manage scheduling. You are expected to:
-
-- Set your recurring availability and note scheduling preferences in 7shifts
-- Request time off at least 3 weeks ahead of time
-- Understand that time off requests are not guaranteed
-- Find coverage using the shift pool when you cannot work a scheduled shift
-- Keep call-outs to a minimum
+If you cannot work a scheduled shift, it is your responsibility to find coverage using the shift pool in 7shifts. Keep call-outs to a minimum.
 
 ## Attendance Standards
 
