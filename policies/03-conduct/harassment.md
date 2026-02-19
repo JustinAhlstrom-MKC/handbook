@@ -26,7 +26,7 @@ MKC Restaurants considers this conduct to be misconduct and will discipline empl
 
 ## Manager Responsibilities
 
-Managers are responsible to prevent and stop harassment. Managers are required to be aware of this policy, refrain from harassment, and inform Justin as soon as they suspect or become aware of an allegation of harassment. If a manager is aware of harassment and does not report the conduct, the manager will be disciplined.
+Managers are responsible to prevent and stop harassment. Managers are required to be aware of this policy, refrain from harassment, and inform Justin or Becky as soon as they suspect or become aware of an allegation of harassment. If a manager is aware of harassment and does not report the conduct, the manager will be disciplined.
 
 ## Please Tell Us
 

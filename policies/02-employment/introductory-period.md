@@ -15,7 +15,7 @@ The first 90 days of employment are considered an introductory period. This time
 During this time, you will:
 
 - Complete all required training and onboarding
-- Learn our systems (TOAST, 7shifts)
+- Learn our systems (Toast, 7shifts)
 - Demonstrate your ability to perform your job duties
 - Show that you can work effectively with our team and serve our guests
 

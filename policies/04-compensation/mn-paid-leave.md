@@ -46,7 +46,7 @@ Minnesota Paid Leave provides **partial wage replacement** — not your full pay
 Paid Leave benefits are applied for through the state, not through MKC Restaurants. To file a claim:
 
 1. Notify your manager that you will be taking leave
-2. Apply at **paidleave.mn.gov** or by phone at **651-556-7777** (toll free: 844-556-0444)
+2. Apply at **[paidleave.mn.gov](https://paidleave.mn.gov)** or by phone at **651-556-7777** (toll free: 844-556-0444)
 3. The state will process your claim and issue payments directly to you
 
 ## Premium Contributions
@@ -73,6 +73,6 @@ MKC Restaurants will not interfere with or retaliate against any employee for re
 
 If you have questions about Minnesota Paid Leave, talk to your manager or contact the program directly:
 
-- **Website:** paidleave.mn.gov
+- **Website:** [paidleave.mn.gov](https://paidleave.mn.gov)
 - **Phone:** 651-556-7777 or 844-556-0444 (toll free)
-- **Email:** paidleave@state.mn.us
+- **Email:** [paidleave@state.mn.us](mailto:paidleave@state.mn.us)

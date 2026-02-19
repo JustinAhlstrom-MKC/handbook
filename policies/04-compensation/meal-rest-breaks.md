@@ -8,7 +8,7 @@ applies_to: all
 
 # Meal & Rest Breaks
 
-MKC Restaurants values employee wellbeing and provides meal and rest breaks in compliance with Minnesota law (Minn. Stat. 177.253).
+MKC Restaurants values employee wellbeing and provides meal and rest breaks in compliance with Minnesota law.
 
 ## Rest Breaks
 

@@ -68,6 +68,7 @@ sections:
   - id: 05-scheduling
     title: Scheduling & Attendance
     policies:
+      - scheduling.md
       - attendance.md
 
   - id: 06-appearance

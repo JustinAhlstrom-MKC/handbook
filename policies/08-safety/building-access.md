@@ -14,7 +14,7 @@ By accepting keys or codes, you agree to:
 
 - Use keys and codes solely for authorized Company purposes and during authorized hours
 - Not share, lend, or duplicate keys or disclose codes to anyone without prior written consent
-- Immediately report any lost or stolen keys or compromised codes to Justin Ahlstrom at justin@margies-kitchen.com
+- Immediately report any lost or stolen keys or compromised codes to Justin or Becky Ahlstrom at justin@margies-kitchen.com or becky@margies-kitchen.com
 - Return all keys and immediately cease use of any codes upon termination of employment or upon request
 
 Failure to comply may result in disciplinary action, including potential termination of employment. You may also be held financially responsible for any damages or losses incurred due to negligence related to keys or codes.

@@ -12,13 +12,13 @@ MKC Restaurants wants to ensure every employee is paid fairly and consistently w
 
 ## Work Week
 
-The normal work week for MKC Restaurants is 40 hours. For purposes of overtime calculation, the work week is considered to begin on Monday and end on Sunday.
+For purposes of payroll and overtime calculation, the work week begins on Monday and ends on Sunday.
 
 ## Exempt and Non-Exempt Status
 
 Exempt employees are not eligible to receive overtime pay because they are exempt from the provisions of the Fair Labor Standards Act (FLSA), state, and local laws. Exempt employees are paid a constant salary regardless of the hours worked.
 
-Non-exempt employees are paid for hours worked; therefore, time worked must be accurately recorded in TOAST.
+Non-exempt employees are paid for hours worked; therefore, time worked must be accurately recorded in Toast.
 
 ## Overtime
 

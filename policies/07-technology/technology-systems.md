@@ -10,9 +10,10 @@ applies_to: all
 
 Throughout your employment, you will have access to and be required to utilize the following systems. You will be provided links and invites during onboarding.
 
-## TOAST - Point of Sale
+## Toast - Point of Sale
 
 Used for:
+
 - Clock in/out
 - Ordering - utilized on the floor
 - Processing payments
@@ -20,6 +21,7 @@ Used for:
 ## 7shifts - Schedules and Communication
 
 Used for:
+
 - Team contacts
 - Task management
 - Schedules

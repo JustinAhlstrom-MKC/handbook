@@ -22,7 +22,7 @@ To set up or change direct deposit, contact management for assistance.
 
 ## Timekeeping Requirements
 
-Accurate timekeeping is essential. All non-exempt (hourly) employees must clock in and out using TOAST.
+Accurate timekeeping is essential. All non-exempt (hourly) employees must clock in and out using Toast.
 
 **You are required to:**
 

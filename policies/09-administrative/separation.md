@@ -26,6 +26,7 @@ Notice should be provided in writing to your manager. Providing adequate notice 
 **Involuntary termination:** Your final paycheck will be available within 24 hours upon your request, or at the next regular payday, in accordance with Minnesota law.
 
 Final pay will include:
+
 - All hours worked through your last day
 - Accrued, unused PTO (vacation time) per Minnesota law
 - Any other earned wages
@@ -46,10 +47,17 @@ Failure to return company property may result in deductions from your final pay 
 ## Exit Process
 
 Depending on circumstances, your manager may:
+
 - Conduct an exit interview
 - Review return of property
 - Confirm your forwarding address for tax documents (W-2)
 - Answer questions about benefits continuation (if applicable)
+
+## Job Abandonment and Inactive Status
+
+**No-call/no-show:** If you fail to report to work or contact your manager for 3 consecutive scheduled shifts, you will be considered to have voluntarily resigned.
+
+**Inactive status:** To maintain active employment, you must work at least one shift within any 60-day period. If 60 days pass without working a shift and you are not on an approved leave (such as FMLA or Minnesota Paid Leave), you will be considered to have voluntarily resigned. If you anticipate an extended absence, talk to your manager in advance so we can determine whether an approved leave arrangement is appropriate.
 
 ## Rehire Eligibility
 
