@@ -33,6 +33,7 @@ We expect all new team members to:
 Successful completion of the introductory period is not a guarantee of continued employment. Employment remains at-will before, during, and after the introductory period. Completion does not create any right to continued employment or to any particular form of discipline before termination.
 
 After 90 days:
+
 - You become eligible to use accrued Sick & Safe Time
 - If you've averaged 30+ hours per week, you begin accruing PTO
 - You remain eligible for any applicable benefits as outlined in our policies

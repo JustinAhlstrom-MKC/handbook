@@ -23,4 +23,5 @@ Thank you for choosing to be part of our team. We can't wait to see what we'll a
 Welcome aboard,
 
 **Becky & Justin Ahlstrom**
+
 Owners, MKC Restaurants
