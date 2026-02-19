@@ -4,7 +4,7 @@ site_description: Employee handbook for Margie's Kitchen & Cocktails and Grackle
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/MKC_GreenBlock.png
+  logo: assets/MKC_TransparentBlock.png
   palette:
     scheme: default  # Light background
     primary: custom
