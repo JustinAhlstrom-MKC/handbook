@@ -62,10 +62,27 @@ If you lose full-time status, you can regain it by averaging 30+ hours per week 
 
 ## Hours Calculation
 
-Average weekly hours are calculated by dividing total hours worked during the measurement period by the number of weeks worked in that period.
+Average weekly hours are calculated by dividing total hours worked during the measurement period by the number of **adjusted weeks** in that period.
 
-- **Initial 30-day period:** Total hours worked ÷ approximately 4 weeks
-- **Quarterly review:** Total hours worked in quarter ÷ total weeks worked (typically 13 weeks)
+### Initial 30-Day Period
+
+Total hours worked ÷ approximately 4 weeks.
+
+### Quarterly Review
+
+Total hours worked in the quarter ÷ adjusted weeks in the quarter.
+
+**Adjusted weeks** account for days when both restaurant locations are closed. To calculate:
+
+1. Start with the total **calendar days** in the quarter (typically 90–92)
+2. Subtract any **company closure days** (days when both locations are closed)
+3. Divide the result by **7**
+
+> **Example:** Q1 has 90 calendar days. Both locations are closed January 1–5 (5 days).
+> Adjusted weeks = (90 − 5) ÷ 7 = **12.14 weeks**.
+> An employee who works 380 hours that quarter averages 380 ÷ 12.14 = **31.3 hours per week**.
+
+This adjustment ensures employees are not penalized for days they were unable to work due to company closures.
 
 ## Questions
 
