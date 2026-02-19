@@ -72,17 +72,19 @@ Total hours worked ÷ approximately 4 weeks.
 
 Total hours worked in the quarter ÷ adjusted weeks in the quarter.
 
-**Adjusted weeks** account for days when both restaurant locations are closed. To calculate:
+**Adjusted weeks** account for days your location was closed. Because Margie's and Grackle may have different closure schedules, adjusted weeks are calculated separately for each location. To calculate:
 
 1. Start with the total **calendar days** in the quarter (typically 90–92)
-2. Subtract any **company closure days** (days when both locations are closed)
+2. Subtract the number of days **your location** was closed during the quarter
 3. Divide the result by **7**
 
-> **Example:** Q1 has 90 calendar days. Both locations are closed January 1–5 (5 days).
-> Adjusted weeks = (90 − 5) ÷ 7 = **12.14 weeks**.
-> An employee who works 380 hours that quarter averages 380 ÷ 12.14 = **31.3 hours per week**.
+> **Example:** Q1 has 90 calendar days. Margie's is closed January 1–5 (5 days) while Grackle is closed only January 1–2 (2 days).
+> - A Margie's employee: (90 − 5) ÷ 7 = **12.14 adjusted weeks**
+> - A Grackle employee: (90 − 2) ÷ 7 = **12.57 adjusted weeks**
 
-This adjustment ensures employees are not penalized for days they were unable to work due to company closures.
+Employees who regularly work at both locations will use the closure days of their **primary location** (the location where the majority of their shifts are scheduled).
+
+This adjustment ensures employees are not penalized for days they were unable to work due to location closures.
 
 ## Questions
 
