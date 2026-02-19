@@ -11,6 +11,7 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - search.highlight
     - toc.integrate
   status: {}
@@ -47,12 +48,12 @@ nav:
     - 04-compensation/pay-and-timekeeping.md
     - 04-compensation/work-hours-overtime.md
     - 04-compensation/tips.md
+    - 04-compensation/meal-rest-breaks.md
     - 04-compensation/pto-policy.md
     - 04-compensation/mn-paid-leave.md
     - 04-compensation/fmla.md
     - 04-compensation/benefits.md
     - 04-compensation/employee-perks.md
-    - 04-compensation/meal-rest-breaks.md
     - 04-compensation/wage-discussions.md
   - Scheduling & Attendance:
     - 05-scheduling/attendance.md
@@ -61,8 +62,8 @@ nav:
     - 06-appearance/smoking.md
   - Technology & Systems:
     - 07-technology/technology-systems.md
-    - 07-technology/social-media.md
     - 07-technology/cell-phones.md
+    - 07-technology/social-media.md
   - Safety & Security:
     - 08-safety/food-safety.md
     - 08-safety/injury-reporting.md

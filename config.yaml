@@ -57,12 +57,12 @@ sections:
       - pay-and-timekeeping.md
       - work-hours-overtime.md
       - tips.md
+      - meal-rest-breaks.md
       - pto-policy.md
       - mn-paid-leave.md
       - fmla.md
       - benefits.md
       - employee-perks.md
-      - meal-rest-breaks.md
       - wage-discussions.md
 
   - id: 05-scheduling
@@ -80,8 +80,8 @@ sections:
     title: Technology & Systems
     policies:
       - technology-systems.md
-      - social-media.md
       - cell-phones.md
+      - social-media.md
 
   - id: 08-safety
     title: Safety & Security
