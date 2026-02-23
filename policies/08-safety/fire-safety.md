@@ -39,13 +39,13 @@ Understanding the type of fire determines the correct response:
 2. **Turn off the heat source** if you can do so safely.
 3. **For small grease fires on the stovetop:** Slide a metal lid or sheet pan over the pan to smother the flames. Never move the pan.
 4. **Use the correct extinguisher** if the fire is small and you are trained:
-   - **Class K extinguisher** (silver label) for grease/oil fires — these are mounted near cooking stations
-   - **ABC extinguisher** (red) for general fires
+    - **Class K extinguisher** (silver label) for grease/oil fires — these are mounted near cooking stations
+    - **ABC extinguisher** (red) for general fires
 5. **Use the P.A.S.S. technique:**
-   - **P**ull the pin
-   - **A**im at the base of the fire (not the flames)
-   - **S**queeze the handle
-   - **S**weep side to side
+    - **P**ull the pin
+    - **A**im at the base of the fire (not the flames)
+    - **S**queeze the handle
+    - **S**weep side to side
 6. **If the fire does not go out within a few seconds, stop and evacuate.**
 
 ### Larger Fires or Hood Suppression Activation
