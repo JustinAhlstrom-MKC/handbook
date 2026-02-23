@@ -10,4 +10,6 @@ applies_to: all
 
 The safety of our employees and guests is our top priority. Emergency procedures — including fire evacuation, severe weather shelter, medical emergencies, and security incidents — are posted at each location. Familiarize yourself with these procedures and the location of emergency exits, fire extinguishers, and first aid kits.
 
+For fire-specific procedures, including kitchen fire response, extinguisher use, and evacuation, see the **Fire Safety** policy.
+
 If you have questions about emergency procedures at your location, ask your manager.

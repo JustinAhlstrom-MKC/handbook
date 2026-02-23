@@ -88,6 +88,7 @@ sections:
     title: Safety & Security
     policies:
       - food-safety.md
+      - fire-safety.md
       - cut-resistant-gloves.md
       - injury-reporting.md
       - emergency-procedures.md
