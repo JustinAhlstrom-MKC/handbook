@@ -49,14 +49,14 @@ These requirements are based on health code and are not subject to exception.
 
 ### Service Support & Servers
 
-- Nails must be clean and maintained at a functional length
-- Staff with artificial nails, gel nails, or nail polish **must wear single-use food-safe gloves** when handling any food items (garnishes, bread, shared plates, etc.)
+- Nails must be clean and maintained at a short, functional length
+- Staff with artificial nails, gel nails, or nail polish **must wear single-use food-safe gloves** when handling any food items
 - Nail length must not interfere with job duties or food safety
 
 ### Hosts
 
 - Nails must be clean and professional in appearance
-- Extreme nail lengths that interfere with job duties are not permitted
+- Long nail lengths that interfere with job duties are not permitted
 
 Employees in any role who arrive for a shift out of compliance with these standards may be sent home to correct the issue.
 
