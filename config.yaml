@@ -87,11 +87,11 @@ sections:
   - id: 08-safety
     title: Safety & Security
     policies:
+      - emergency-procedures.md
       - food-safety.md
       - fire-safety.md
       - cut-resistant-gloves.md
       - injury-reporting.md
-      - emergency-procedures.md
       - building-access.md
       - parking.md
 
