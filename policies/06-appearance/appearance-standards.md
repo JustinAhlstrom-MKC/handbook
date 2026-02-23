@@ -27,11 +27,38 @@ applies_to: all
 - Long black pants, black socks, non-slip black shoes
 - No sweatpants or leggings
 
-## All Staff
+## Hygiene & Grooming
 
-- Long hair tied back
-- Nails clean & trimmed short
+### All Staff
+
+- Long hair tied back during shifts
 - No strong fragrances
+- Good personal hygiene
+
+### Kitchen Staff & Food Runners
+
+Per FDA Food Code and Minnesota food safety regulations:
+
+- **Hair restraints required** — hats, hairnets, or other approved head coverings must be worn at all times when working in the kitchen or on the expo line
+- **No artificial or acrylic nails** — this includes acrylics, gel extensions, press-ons, tips, wraps, and any other nail enhancements
+- **No nail polish** (including gel polish)
+- **Natural nails trimmed short** — must not extend beyond the fingertip
+- Nails must be clean and free of debris
+
+These requirements are based on health code and are not subject to exception.
+
+### Service Support & Servers
+
+- Nails must be clean and maintained at a functional length
+- Staff with artificial nails, gel nails, or nail polish **must wear single-use food-safe gloves** when handling any food items (garnishes, bread, shared plates, etc.)
+- Nail length must not interfere with job duties or food safety
+
+### Hosts
+
+- Nails must be clean and professional in appearance
+- Extreme nail lengths that interfere with job duties are not permitted
+
+Employees in any role who arrive for a shift out of compliance with these standards may be sent home to correct the issue.
 
 ## Uniforms
 
