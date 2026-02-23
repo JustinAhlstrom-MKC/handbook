@@ -23,7 +23,8 @@ handbook/
 ├── output/             # Generated documents (gitignored)
 ├── templates/          # Word templates (future)
 ├── config.yaml         # Section ordering and build settings
-├── REVIEW-STATUS.md    # Review tracking (may be stale)
+├── REVIEW-STATUS.md    # Review tracking
+├── COMPLIANCE-REVIEW.md # Compliance review item tracking
 └── CLAUDE.md           # This file
 ```
 
@@ -67,30 +68,13 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 
 ## Current State
 
-- **Total policies:** 44
-- **All policies status:** draft
-- First pass review completed on some compensation policies
-- Google Drive sync attempted but .gdoc format doesn't round-trip well
-
-## Policies Needing Content (Placeholders)
-
-| Policy | What's Needed |
-|--------|---------------|
-| tips.md | Tip sharing guidance (not tip pool) |
-| social-media.md | Full social media guidelines |
-| cell-phones.md | Phone usage and storage rules |
-| emergency-procedures.md | Fire, weather, medical, robbery procedures |
-| food-safety.md | Food safety basics or reference to training |
-
-## Section Ordering (in config.yaml)
-
-Ordering within sections should follow: **Most important/foundational → Supporting details → Standalone/less critical**
-
-**Section 4 suggested order:**
-pay-and-timekeeping → work-hours-overtime → tips → pto-policy → mn-esst → mn-paid-leave → benefits → meal-rest-breaks → wage-discussions
-
-**Section 8 suggested order:**
-food-safety → injury-reporting → emergency-procedures → building-access → parking
+- **Total policies:** 45
+- **All policies status:** active
+- Full compliance review completed across all sections (see REVIEW-STATUS.md and COMPLIANCE-REVIEW.md for details)
+- All former placeholder policies (tips, social-media, cell-phones, emergency-procedures) have full content
+- New policies added during review: fmla.md, employee-perks.md, scheduling.md
+- Policies consolidated during review: mn-esst folded into pto-policy.md, on-stage folded into appearance-standards.md
+- Section ordering applied to config.yaml
 
 ## Collaboration Workflow
 
@@ -131,11 +115,12 @@ python build/build.py --output-name "MKC-Handbook-Final"
 ## Next Steps
 
 1. ~~Apply section reordering to config.yaml (Sections 4 and 8)~~ ✓ Done
-2. Complete placeholder policies (tips, social-media, cell-phones, emergency, food-safety)
-3. Continue policy-by-policy review
-4. Create GitHub editing guide for Becky
-5. Once all approved, batch update status to "active"
-6. Build final Word document for distribution
+2. ~~Complete placeholder policies (tips, social-media, cell-phones, emergency, food-safety)~~ ✓ Done
+3. ~~Full compliance review across all policies~~ ✓ Done
+4. ~~Batch update all policy statuses to "active"~~ ✓ Done
+5. Create GitHub editing guide for Becky
+6. Have employment attorney review handbook (see COMPLIANCE-REVIEW.md for checklist)
+7. Build final Word document for distribution
 
 ## GitHub Repository
 

@@ -2,7 +2,7 @@
 title: Cut-Resistant Gloves
 version: 1.0
 effective_date: 2026-01-01
-status: draft
+status: active
 applies_to: all
 ---
 
