@@ -2,13 +2,15 @@
 
 ## Project Overview
 
-Modular employee handbook system for MKC Restaurants (Margie's Kitchen & Cocktails and Grackle). Policies are stored as individual markdown files with YAML front matter, enabling version control at the policy level and automated assembly into Word documents.
+Modular employee handbook system for MKC Restaurants (Margie's Kitchen & Cocktails and Grackle). Policies are stored as individual markdown files with YAML front matter, enabling version control at the policy level.
+
+**Primary publication channel:** GitHub Pages site built with MkDocs Material. PDF export is available for occasional use but the website is the canonical version employees access.
 
 ## Repository Structure
 
 ```
 handbook/
-├── policies/           # Individual policy markdown files
+├── policies/           # Individual policy markdown files (also MkDocs docs_dir)
 │   ├── 01-welcome/
 │   ├── 02-employment/
 │   ├── 03-conduct/
@@ -18,11 +20,14 @@ handbook/
 │   ├── 07-technology/
 │   ├── 08-safety/
 │   ├── 09-administrative/
-│   └── 10-acknowledgement/
-├── build/              # Build script and requirements
+│   ├── 10-acknowledgement/
+│   ├── assets/         # Images and CSS for GitHub Pages site
+│   └── index.md        # Site homepage
+├── overrides/          # MkDocs Material theme overrides
+├── mkdocs.yml          # MkDocs config — nav, theme, extensions
+├── config.yaml         # Section ordering for Word/PDF build
+├── build/              # Word/PDF build script and requirements
 ├── output/             # Generated documents (gitignored)
-├── templates/          # Word templates (future)
-├── config.yaml         # Section ordering and build settings
 ├── REVIEW-STATUS.md    # Review tracking
 ├── COMPLIANCE-REVIEW.md # Compliance review item tracking
 └── CLAUDE.md           # This file
@@ -68,7 +73,7 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 
 ## Current State
 
-- **Total policies:** 45
+- **Total policies:** 46
 - **All policies status:** active
 - Full compliance review completed across all sections (see REVIEW-STATUS.md and COMPLIANCE-REVIEW.md for details)
 - All former placeholder policies (tips, social-media, cell-phones, emergency-procedures) have full content
@@ -76,41 +81,52 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 - Policies consolidated during review: mn-esst folded into pto-policy.md, on-stage folded into appearance-standards.md
 - Section ordering applied to config.yaml
 
+## When Adding, Removing, or Renaming a Policy
+
+**Both of these files must be updated to stay in sync:**
+
+1. **`mkdocs.yml`** — the `nav:` section controls the GitHub Pages sidebar. This is the primary publication channel.
+2. **`config.yaml`** — the `sections:` list controls the Word/PDF build order.
+
+Policy order should match between the two files.
+
+## Publishing (GitHub Pages)
+
+The site is built automatically by GitHub Pages when changes are pushed to `main`. MkDocs Material is the theme.
+
+- **Site config:** `mkdocs.yml`
+- **Content source:** `policies/` directory (set as `docs_dir`)
+- **Theme overrides:** `overrides/main.html`
+- **Assets:** `policies/assets/` (logo, CSS)
+
+To preview locally: `mkdocs serve`
+
+## Word/PDF Export
+
+Occasionally used for printed copies or attorney review. Not the primary distribution method.
+
+```bash
+pip install -r build/requirements.txt
+python build/build.py
+python build/build.py --exclude-draft
+python build/build.py --output-name "MKC-Handbook-Final"
+```
+
 ## Collaboration Workflow
 
 ### For Justin (technical)
-- Edit policies directly in VS Code or GitHub
-- Run `python build/build.py` to generate Word doc
-- Commit and push changes
+- Edit policies directly in VS Code
+- Commit and push — GitHub Pages updates automatically
 
 ### For Becky/others (non-technical)
 - Option 1: GitHub web interface (click file → pencil icon → edit → commit)
 - Option 2: Google Drive markdown files (sync manually)
-- Need to create a simple guide for GitHub web editing
 
 ### Google Drive Location
 ```
 G:\Shared drives\03 - Human Resources (Confidential)\Employee Handbook\
 ```
 Mount in WSL: `sudo mount -t drvfs G: /mnt/g`
-
-Note: Editing .md files in Google Drive creates .gdoc copies. For clean workflow, either edit markdown directly or accept manual sync-back.
-
-## Build Commands
-
-```bash
-# Install dependencies
-pip install -r build/requirements.txt
-
-# Build full handbook
-python build/build.py
-
-# Exclude draft policies
-python build/build.py --exclude-draft
-
-# Custom output name
-python build/build.py --output-name "MKC-Handbook-Final"
-```
 
 ## Next Steps
 
@@ -120,7 +136,7 @@ python build/build.py --output-name "MKC-Handbook-Final"
 4. ~~Batch update all policy statuses to "active"~~ ✓ Done
 5. Create GitHub editing guide for Becky
 6. Have employment attorney review handbook (see COMPLIANCE-REVIEW.md for checklist)
-7. Build final Word document for distribution
+7. Export PDF version for attorney review
 
 ## GitHub Repository
 
