@@ -39,7 +39,7 @@ applies_to: all
 
 Per FDA Food Code and Minnesota food safety regulations:
 
-- **Hair restraints required** — hats, hairnets, or other approved head coverings must be worn at all times when working in the kitchen or on the expo line
+- **Hair restraints required** — hats, hairnets, or other approved head coverings must be worn at all times when working in the kitchen; food runners may have long hair tied back on the expo line
 - **No artificial or acrylic nails** — this includes acrylics, gel extensions, press-ons, tips, wraps, and any other nail enhancements
 - **No nail polish** (including gel polish)
 - **Natural nails trimmed short** — must not extend beyond the fingertip
