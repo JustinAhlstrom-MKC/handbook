@@ -34,13 +34,13 @@ Scheduling time off (through 7shifts) and requesting paid time off are **two sep
 
 | Situation | Scheduling | Paid Time Off |
 |-----------|------------|---------------|
-| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | PTO only — submit a PTO request through the online form. SST does not apply. |
-| **Doctor's appointment** | Request off in 7shifts as early as possible. If the schedule is already published, talk to your manager or find coverage. | SST or PTO — submit a request through the online form. |
-| **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the online form. |
-| **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the online form. |
-| **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | PTO only (if you want to be paid for the day) — submit a PTO request through the online form. SST does not apply. |
+| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | PTO only — submit a PTO request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). SST does not apply. |
+| **Doctor's appointment** | Request off in 7shifts as early as possible. If the schedule is already published, talk to your manager or find coverage. | SST or PTO — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
+| **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
+| **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST or PTO — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
+| **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | PTO only (if you want to be paid for the day) — submit a PTO request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). SST does not apply. |
 
-**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting paid time off (PTO or SST) is a separate step done through the online form.
+**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting paid time off (PTO or SST) is a separate step done through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form).
 
 **Key distinction:** Sick and Safe Time can only be used for qualifying reasons (illness, medical care, safety situations, and other reasons listed below). Vacation/PTO can be used for any reason. When a situation qualifies for both, you choose which to use.
 
@@ -117,7 +117,7 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 ## Requesting Time Off
 
 1. **Schedule the time off** — Request the day off in **7shifts** at least 3 weeks in advance. All time off requests are subject to approval based on business needs.
-2. **Request pay (if applicable)** — Submit a separate request through the **online form** for PTO or SST.
+2. **Request pay (if applicable)** — Submit a separate request through the **[online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form)** for PTO or SST.
 
 For unplanned absences (illness, emergencies), call your manager before your shift and submit your paid time off request afterward.
 

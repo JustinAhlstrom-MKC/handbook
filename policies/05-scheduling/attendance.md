@@ -23,3 +23,5 @@ This policy does not apply to absences protected by law, including Sick and Safe
 ## Call-Out Procedures
 
 When unable to report to work due to an illness or emergency, you must contact your manager directly as far in advance as possible before your scheduled shift. In the event of an emergency, notify your manager as soon as practical. Contacting a co-worker is not a substitute for notifying your manager. If your absence extends beyond one day, check in with your manager each day unless otherwise instructed.
+
+If your absence qualifies for Sick and Safe Time or PTO and you have accrued hours available, submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) as soon as possible. See the [Time Off Policy](../04-compensation/pto-policy.md) for details.
