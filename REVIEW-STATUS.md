@@ -58,7 +58,7 @@
 - [ ] General attorney review (see Attorney Review Checklist in COMPLIANCE-REVIEW.md).
 
 ### Business decisions / open
-- [ ] Confirm the Airtable acknowledgement form contains the full receipt-and-acknowledgement legal text (at-will, not-a-contract, handbook-may-change, harassment-reporting). Reference copy preserved in git history (commit `fb959bc`).
+- [x] **Acknowledgement form confirmed** (May 2026) — the live Airtable form contains the full receipt-and-acknowledgement legal text (at-will, not-a-contract, handbook-may-change, agreement to comply incl. harassment reporting), plus an electronic signature and confirmation checkbox tied to the Employee Handbook policy record. Backup of the form content saved to [acknowledgement-form-backup.md](acknowledgement-form-backup.md).
 
 ### Deferred by ownership (May 2026)
 - Voting leave / jury duty / military (USERRA) leave — **deferred for now**, not added.

@@ -114,6 +114,10 @@ python build/build.py --exclude-draft
 python build/build.py --output-name "MKC-Handbook-Final"
 ```
 
+## Acknowledgement Form
+
+The signed acknowledgement is collected via an Airtable form (base `appVWDqRGdBqhvfEj`, form `pagzgCR2WphrlaxGr`) embedded on `policies/10-acknowledgement/acknowledgement.md`. The form's legal text lives in Airtable; a versioned backup of the full form content is kept at `acknowledgement-form-backup.md` (repo root, not published). **If the acknowledgement language changes in Airtable, update that backup file in the same change.**
+
 ## Collaboration Workflow
 
 ### For Justin (technical)
