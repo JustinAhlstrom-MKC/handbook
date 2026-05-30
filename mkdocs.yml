@@ -1,5 +1,6 @@
 site_name: MKC Restaurants Employee Handbook
 site_description: Employee handbook for Margie's Kitchen & Cocktails and Grackle
+site_url: https://team.margies-kitchen.com/
 
 theme:
   name: material
