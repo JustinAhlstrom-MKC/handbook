@@ -10,7 +10,7 @@ applies_to: all
 
 ## Margie's Kitchen & Cocktails
 
-- **Address:** 13735 Round Lake Blvd, Andover, MN 55304
+- **Address:** 13735 Round Lake Blvd NW, Andover, MN 55304
 - **Phone:** (763) 205-4762
 - **Website:** [www.margies-kitchen.com](https://www.margies-kitchen.com)
 

@@ -1,6 +1,6 @@
 ---
 title: Time Off Policy
-version: 1.0
+version: 1.1
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -99,8 +99,11 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 **Accrual:**
 
 - **Rate:** 0.0192 hours per hour worked (not to exceed 40 hours per year)
-- **Begins:** After qualifying as full-time (see [Employee Classifications](../02-employment/employee-classifications.md))
-- **Balance Cap:** Up to 40 hours carryover
+- **Begins accruing:** From your first day of work if you are hired into a full-time position. If you are hired part-time and later reach full-time status, accrual begins on the effective date of that change (see [Employee Classifications](../02-employment/employee-classifications.md)).
+- **Usage begins:** After 90 days of employment
+- **Balance Cap:** Up to 40 hours may carry over from one year to the next. Any accrued balance above 40 hours that is unused at year-end is forfeited.
+
+**Initial evaluation:** PTO you accrue during your first 30 days is provisional and does not vest until your full-time status is confirmed at your 30-day evaluation. If that evaluation shows you did not actually average 30 or more hours per week, you will be classified as part-time, you will not be eligible for PTO, and any provisional PTO will be removed. Because PTO cannot be used during your first 90 days, no provisional PTO is ever used before your status is confirmed.
 
 **If you lose full-time status:** PTO accrual stops, but any accrued balance remains available to use.
 
@@ -109,8 +112,9 @@ Vacation/PTO is additional paid time off for personal use. Unlike Sick and Safe 
 **Accrual:**
 
 - **Rate:** 3.08 hours per pay period (not to exceed 80 hours per year)
-- **Begins:** First pay period after hire
-- **Balance Cap:** Up to 40 hours carryover
+- **Begins accruing:** First pay period after hire
+- **Usage begins:** After 90 days of employment
+- **Balance Cap:** Up to 40 hours may carry over from one year to the next. Any accrued balance above 40 hours that is unused at year-end is forfeited.
 
 ---
 
@@ -124,7 +128,7 @@ For unplanned absences (illness, emergencies), call your manager before your shi
 ## Payout at Termination
 
 - **Sick and Safe Time:** Not paid out at termination
-- **Vacation/PTO:** Paid out at termination per Minnesota law
+- **Vacation/PTO:** Paid out at termination per company policy
 
 ## Questions
 

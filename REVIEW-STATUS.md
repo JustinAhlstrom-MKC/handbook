@@ -1,6 +1,7 @@
 # Handbook Review Status
 
-**Last Updated:** February 2026
+**Last Updated:** May 2026
+**Status:** Launch-ready — final pre-launch review complete
 
 ## Workflow
 
@@ -10,164 +11,55 @@
 - `approved` - Reviewed and approved by Justin
 - `active` - Published and in effect
 
-**Review process:**
-1. Pick a policy to review
-2. Update status to `in-review`
-3. Review content, make edits as needed
-4. When satisfied, update status to `approved`
-5. Commit changes with descriptive message
-6. Once all policies approved, batch update to `active` for go-live
+---
+
+## Current State
+
+- **Total policies:** 47, **all `active`**
+- Full compliance review complete across all sections (see [COMPLIANCE-REVIEW.md](COMPLIANCE-REVIEW.md))
+- Final pre-launch consistency/legal review complete (May 2026)
+- Handbook is being rolled out to staff; acknowledgements collected via the Airtable form on the Acknowledgement page
+
+## Policy Count by Section
+
+| Section | Policies |
+|---------|----------|
+| 01 Welcome & About Us | 5 |
+| 02 Employment Basics | 5 |
+| 03 Workplace Conduct | 8 |
+| 04 Compensation & Time Off | 10 |
+| 05 Scheduling & Attendance | 2 (scheduling, attendance) |
+| 06 Appearance & Professionalism | 2 |
+| 07 Technology & Systems | 3 |
+| 08 Safety & Security | 7 (incl. fire-safety, cut-resistant-gloves) |
+| 09 Administrative | 4 |
+| 10 Acknowledgement | 1 |
+| **Total** | **47** |
 
 ---
 
-## Section 1: Welcome & About Us
+## Resolved in Final Pre-Launch Review (May 2026)
 
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [welcome-letter.md](policies/01-welcome/welcome-letter.md) | draft | Has content but still has PLACEHOLDER comment — needs personalization from Becky/Justin |
-| [about-mkc.md](policies/01-welcome/about-mkc.md) | draft | Needs review |
-| [mission-values.md](policies/01-welcome/mission-values.md) | draft | Needs review |
-| [behavior-expectations.md](policies/01-welcome/behavior-expectations.md) | draft | Needs review |
-| [contacts.md](policies/01-welcome/contacts.md) | draft | Needs review |
-
-## Section 2: Employment Basics
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [at-will.md](policies/02-employment/at-will.md) | in-review | Added handbook contract disclaimer |
-| [employee-classifications.md](policies/02-employment/employee-classifications.md) | draft | Needs ACA measurement period review by attorney (if 50+ FTE) |
-| [eeo.md](policies/02-employment/eeo.md) | in-review | Added MN public assistance status, updated to federal/state/local law |
-| [accommodations.md](policies/02-employment/accommodations.md) | in-review | Added interactive process steps, documentation language |
-| [introductory-period.md](policies/02-employment/introductory-period.md) | in-review | Strengthened at-will language, no right to progressive discipline |
-
-## Section 3: Workplace Conduct
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [safe-inclusive-environment.md](policies/03-conduct/safe-inclusive-environment.md) | draft | Needs review |
-| [harassment.md](policies/03-conduct/harassment.md) | in-review | Added backup reporting to Justin/Becky emails |
-| [workplace-violence.md](policies/03-conduct/workplace-violence.md) | in-review | Added vehicle firearm storage exception (MN § 624.714) |
-| [substance-free.md](policies/03-conduct/substance-free.md) | in-review | Added no drug testing statement |
-| [personal-relationships.md](policies/03-conduct/personal-relationships.md) | in-review | Added disclosure section — prompt disclosure to ownership, consequences |
-| [confidentiality.md](policies/03-conduct/confidentiality.md) | in-review | Fixed wage discussion NLRA conflict |
-| [outside-employment.md](policies/03-conduct/outside-employment.md) | in-review | Added right to lawful off-duty activities |
-| [retaliation.md](policies/03-conduct/retaliation.md) | in-review | Expanded scope to all protected activities |
-
-## Section 4: Compensation & Time Off
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [pay-and-timekeeping.md](policies/04-compensation/pay-and-timekeeping.md) | in-review | Removed placeholder, confirmed biweekly schedule |
-| [work-hours-overtime.md](policies/04-compensation/work-hours-overtime.md) | in-review | Fixed comp time language — OT must be paid once worked |
-| [tips.md](policies/04-compensation/tips.md) | in-review | Full policy written — voluntary sharing, managers excluded |
-| [pto-policy.md](policies/04-compensation/pto-policy.md) | in-review | Added ESST notice, PTO cap, quick reference table for scheduling vs. pay |
-| [mn-paid-leave.md](policies/04-compensation/mn-paid-leave.md) | in-review | Expanded from placeholder to full policy, verified against official notice |
-| [fmla.md](policies/04-compensation/fmla.md) | in-review | NEW — full FMLA policy (rolling 12-month, concurrent PTO, job protection) |
-| [benefits.md](policies/04-compensation/benefits.md) | in-review | Added probationary quarter cost sharing details, COBRA mention |
-| [employee-perks.md](policies/04-compensation/employee-perks.md) | in-review | NEW — shift meals, discounts, perks |
-| [meal-rest-breaks.md](policies/04-compensation/meal-rest-breaks.md) | in-review | Specified unpaid, 20 min, clock out, missed break language |
-| [wage-discussions.md](policies/04-compensation/wage-discussions.md) | draft | Needs review |
-
-## Section 5: Scheduling & Attendance
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [attendance.md](policies/05-scheduling/attendance.md) | in-review | Added case-by-case standards, protected leave carve-out, cleaned up call-out procedures |
-
-## Section 6: Appearance & Professionalism
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [on-stage.md](policies/06-appearance/on-stage.md) | draft | Needs review |
-| [appearance-standards.md](policies/06-appearance/appearance-standards.md) | draft | Needs review |
-| [smoking.md](policies/06-appearance/smoking.md) | draft | Needs review |
-
-## Section 7: Technology & Systems
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [technology-systems.md](policies/07-technology/technology-systems.md) | draft | Needs review |
-| [social-media.md](policies/07-technology/social-media.md) | in-review | Full policy written — positive tone, NLRA rights, official accounts |
-| [cell-phones.md](policies/07-technology/cell-phones.md) | in-review | Full policy written — no phones visible to guests, breaks only, no earbuds |
-
-## Section 8: Safety & Security
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [food-safety.md](policies/08-safety/food-safety.md) | draft | Has content — needs review |
-| [injury-reporting.md](policies/08-safety/injury-reporting.md) | draft | Needs review |
-| [emergency-procedures.md](policies/08-safety/emergency-procedures.md) | in-review | References posted procedures at each location (detailed plan maintained separately) |
-| [building-access.md](policies/08-safety/building-access.md) | draft | Needs review |
-| [parking.md](policies/08-safety/parking.md) | draft | Needs review |
-
-## Section 9: Administrative
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [personnel-files.md](policies/09-administrative/personnel-files.md) | in-review | Added MN law specifics — 7-day access, representative, written disagreement |
-| [discipline.md](policies/09-administrative/discipline.md) | in-review | Expanded with examples, at-will clarification, documentation cross-reference |
-| [separation.md](policies/09-administrative/separation.md) | in-review | Fixed final pay timing per MN law |
-| [handbook-changes.md](policies/09-administrative/handbook-changes.md) | draft | Needs review |
-
-## Section 10: Acknowledgement
-
-| Policy | Status | Notes |
-|--------|--------|-------|
-| [acknowledgement.md](policies/10-acknowledgement/acknowledgement.md) | draft | Needs review |
+- **Meal breaks** — Clarified: meal breaks taken on-premises are **paid** (no clock-out); employee clocks out only if leaving the premises. Reconciled `meal-rest-breaks.md` and `pay-and-timekeeping.md`.
+- **PTO accrual vs. use** — Full-time hires accrue PTO from day one (payroll turns it on at hire — no day-30 trigger needed); first-30-day accrual is *provisional* and forfeited if the 30-day evaluation shows they weren't actually full-time. PTO can't be *used* until after 90 days, so provisional PTO is never spent before status is confirmed (forfeiture applies to PTO only, never SST). Reconciled `pto-policy.md` and `introductory-period.md`.
+- **PTO carryover** — Made the 40-hour carryover cap and year-end forfeiture of any excess explicit in `pto-policy.md`.
+- **PTO payout wording** — Removed inaccurate "per Minnesota law" (MN has no vacation-payout statute); now "per company policy" in `pto-policy.md` and `separation.md`.
+- **EAP provider** — Standardized to **AllOne Health** (was "Sand Creek" in internal notes).
+- **Address** — Restored "NW" in `contacts.md` to match all other references.
+- **Required postings** — Added reference (posted in the management office) to `eeo.md`.
+- **MN Paid Leave wage cap** — Replaced the specific annual SS wage-cap dollar figure with a non-stale description.
 
 ---
 
-## Summary
+## Remaining Before / Around Launch
 
-- **Total policies:** 45
-- **Draft (not yet reviewed):** 16
-- **In Review (compliance edits made):** 29
-- **Approved:** 0
-- **Active:** 0
+### Needs attorney / broker
+- [ ] **ACA measurement periods** — `employee-classifications.md` uses a 30-day initial + quarterly method. With 50+ employees (ALE), confirm alignment with ACA look-back safe harbor. See COMPLIANCE-REVIEW.md.
+- [ ] General attorney review (see Attorney Review Checklist in COMPLIANCE-REVIEW.md).
 
-## Policies Still Needing Review
+### Business decisions / open
+- [ ] Confirm the Airtable acknowledgement form contains the full receipt-and-acknowledgement legal text (at-will, not-a-contract, handbook-may-change, harassment-reporting). Reference copy preserved in git history (commit `fb959bc`).
 
-These policies have not been touched during the compliance review and need a full read-through:
-
-| Section | Policy | Priority |
-|---------|--------|----------|
-| 1 | welcome-letter.md | High — needs personalization, remove PLACEHOLDER comment |
-| 1 | about-mkc.md | |
-| 1 | mission-values.md | |
-| 1 | behavior-expectations.md | |
-| 1 | contacts.md | |
-| 2 | employee-classifications.md | High — ACA measurement periods need attorney review |
-| 3 | safe-inclusive-environment.md | |
-| 4 | wage-discussions.md | |
-| 6 | on-stage.md | |
-| 6 | appearance-standards.md | |
-| 6 | smoking.md | |
-| 7 | technology-systems.md | |
-| 8 | food-safety.md | Has content, just needs review |
-| 8 | injury-reporting.md | |
-| 8 | building-access.md | |
-| 8 | parking.md | |
-| 9 | handbook-changes.md | |
-| 10 | acknowledgement.md | |
-
-## Remaining To-Dos
-
-### Before Distribution
-- [ ] Review all 16 unreviewed policies above
-- [ ] Personalize welcome letter (Becky/Justin)
-- [ ] Have employment attorney review handbook (see COMPLIANCE-REVIEW.md for checklist)
-- [ ] Confirm ACA measurement periods with benefits attorney/broker
-- [ ] Build Word document and do final read-through
-- [ ] Update all policy front matter statuses from `draft` → `active`
-- [ ] Distribute to employees and collect signed acknowledgements
-
-### Low Priority / Future Revisions
-- [ ] Add required postings reference (where employment posters are displayed)
-- [ ] Standardize reporting channels across policies
-- [ ] Consider adding jury duty / voting leave policy
-- [ ] Consider adding military leave (USERRA) policy
-- [ ] Consider standalone lactation accommodation policy (currently in accommodations.md)
-
----
-
-*See [COMPLIANCE-REVIEW.md](COMPLIANCE-REVIEW.md) for detailed compliance item tracking.*
+### Deferred by ownership (May 2026)
+- Voting leave / jury duty / military (USERRA) leave — **deferred for now**, not added.
+- Final-pay deduction for unreturned property — **kept as-is** (acceptable per ownership).

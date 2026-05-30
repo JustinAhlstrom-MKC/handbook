@@ -1,6 +1,6 @@
 ---
 title: Introductory Period
-version: 1.0
+version: 1.1
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -34,8 +34,8 @@ Successful completion of the introductory period is not a guarantee of continued
 
 After 90 days:
 
-- You become eligible to use accrued Sick & Safe Time
-- If you've averaged 30+ hours per week, you begin accruing PTO
+- You become eligible to **use** accrued Sick & Safe Time
+- You become eligible to **use** any PTO you have accrued. (Full-time employees begin *accruing* PTO from their first day of work but cannot use it until after 90 days; PTO accrued during the first 30 days is provisional until full-time status is confirmed. See the [Time Off Policy](../04-compensation/pto-policy.md).)
 - You remain eligible for any applicable benefits as outlined in our policies
 
 ## Extensions

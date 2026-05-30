@@ -1,6 +1,6 @@
 ---
 title: Staff Appearance Standards
-version: 1.0
+version: 1.1
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -12,14 +12,17 @@ applies_to: all
 
 - All black base - long pants, professional
 - Clean & pressed apron
-- Black non-slip shoes & socks
+- Black non-slip shoes; black socks, if visible
+- Black belt, if a belt is worn and visible
 - No leggings or workout gear
 
 ## Hosts
 
-- Business Casual/Professional
+- Business casual / professional attire
+- Dresses and skirts must be a tasteful, modest length — no shorter than just above the knee
+- No revealing, sheer, or excessively tight clothing
 - Closed-toe shoes
-- Appropriate for "church with Grandma"
+- When in doubt, dress as you would for "church with Grandma"
 
 ## Service Support & Food Runners
 
@@ -35,11 +38,11 @@ applies_to: all
 - No strong fragrances
 - Good personal hygiene
 
-### Kitchen Staff & Food Runners
+### Kitchen Staff
 
 Per FDA Food Code and Minnesota food safety regulations:
 
-- **Hair restraints required** — hats, hairnets, or other approved head coverings must be worn at all times when working in the kitchen; food runners may have long hair tied back on the expo line
+- **Hair restraints required** — hats, hairnets, or other approved head coverings must be worn at all times when working in the kitchen
 - **No artificial or acrylic nails** — this includes acrylics, gel extensions, press-ons, tips, wraps, and any other nail enhancements
 - **No nail polish** (including gel polish)
 - **Natural nails trimmed short** — must not extend beyond the fingertip
@@ -47,7 +50,7 @@ Per FDA Food Code and Minnesota food safety regulations:
 
 These requirements are based on health code and are not subject to exception.
 
-### Service Support & Servers
+### Service Support, Servers & Food Runners
 
 - Nails must be clean and maintained at a short, functional length
 - Staff with artificial nails, gel nails, or nail polish **must wear single-use food-safe gloves** when handling any food items

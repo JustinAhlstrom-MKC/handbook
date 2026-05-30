@@ -1,6 +1,6 @@
 ---
 title: Meal & Rest Breaks
-version: 1.2
+version: 1.3
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -16,7 +16,11 @@ Employees working 4 or more consecutive hours are entitled to at least one paid 
 
 ## Meal Breaks
 
-Employees working 6 or more consecutive hours are entitled to a paid meal break of at least 30 minutes. The timing of your meal break will be determined by your manager based on business needs.
+Employees working 6 or more consecutive hours are entitled to a meal break of at least 30 minutes. The timing of your meal break will be determined by your manager based on business needs.
+
+In a busy restaurant, it is difficult to be fully relieved of your duties even during a meal break. For that reason, **meal breaks taken on the premises are paid** — you do not clock out, and you should remain reachable in case you are needed.
+
+If you wish to **leave the premises** during your meal break, speak with your manager first and **clock out** for the time you are away. Time spent off the premises during a meal break is unpaid.
 
 If you are unable to take your full meal break for any reason, notify your manager immediately.
 

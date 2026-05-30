@@ -1,6 +1,6 @@
 ---
 title: Pay Periods & Timekeeping
-version: 1.0
+version: 1.1
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -28,8 +28,7 @@ Accurate timekeeping is essential. All non-exempt (hourly) employees must clock 
 
 - Clock in when you begin work (not before)
 - Clock out when you finish work
-- Clock out for unpaid meal breaks if applicable
-- Clock back in when returning from breaks
+- Clock out if you leave the premises during a meal break, and clock back in when you return (meal breaks taken on-site are paid — see [Meal & Rest Breaks](meal-rest-breaks.md))
 
 **You must NOT:**
 

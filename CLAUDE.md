@@ -58,28 +58,30 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 - **Part-Time:** <30 hours/week average
 - **Full-Time:** 30+ hours/week average
 - **Exempt:** Salaried management
-- **Initial qualification:** 90 days from hire
+- **Initial qualification:** First 30 days from hire (initial full-time evaluation); classification then follows the quarterly review schedule
 - **Ongoing review:** Quarterly (Apr 1, Jul 1, Oct 1, Jan 1) based on prior quarter hours
 
 ### Benefits Eligibility
 - Health & Dental: Full-time and Exempt only
-- EAP (Sand Creek): All employees
+- EAP (AllOne Health): All employees
 - **Probationary quarter:** If FT drops to PT, benefits continue for 1 quarter grace period. Benefits end after 2 consecutive PT quarters.
 
 ### PTO Structure
 - Part-Time: Sick & Safe Time only (48 hrs/year, MN law)
 - Full-Time Hourly: SST + 40 hrs PTO/year
 - Exempt Management: SST + 80 hrs PTO/year (consistent across both locations)
+- **Accrual vs. use:** Full-time hires begin *accruing* PTO from their first day worked (payroll turns accrual on at hire — no day-30 trigger needed). PTO accrued in the first 30 days is *provisional* and is forfeited if the 30-day evaluation shows the employee was not actually full-time. PTO cannot be *used* until after 90 days (same as SST), so provisional PTO is never spent before status is confirmed. Provisional forfeiture applies to PTO only — SST is mandated and never forfeitable. Carryover capped at 40 hrs/year; excess forfeited at year-end.
 
 ## Current State
 
-- **Total policies:** 46
+- **Total policies:** 47
 - **All policies status:** active
 - Full compliance review completed across all sections (see REVIEW-STATUS.md and COMPLIANCE-REVIEW.md for details)
 - All former placeholder policies (tips, social-media, cell-phones, emergency-procedures) have full content
-- New policies added during review: fmla.md, employee-perks.md, scheduling.md
+- New policies added during review: fmla.md, employee-perks.md, scheduling.md, fire-safety.md, cut-resistant-gloves.md
 - Policies consolidated during review: mn-esst folded into pto-policy.md, on-stage folded into appearance-standards.md
 - Section ordering applied to config.yaml
+- Meal breaks: paid when taken on-premises (no clock-out); employee must clock out only if leaving the premises during a meal break
 
 ## When Adding, Removing, or Renaming a Policy
 

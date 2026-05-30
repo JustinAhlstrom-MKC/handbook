@@ -1,6 +1,6 @@
 ---
 title: Minnesota Paid Leave
-version: 1.1
+version: 1.2
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -51,7 +51,7 @@ Paid Leave benefits are applied for through the state, not through MKC Restauran
 
 ## Premium Contributions
 
-The program is funded through payroll premiums shared between MKC Restaurants and employees. The current premium rate is **0.88%** of wages (up to the Social Security wage cap, currently $185,000), split equally — **0.44%** employer and **0.44%** employee. Your share is deducted automatically from your paycheck.
+The program is funded through payroll premiums shared between MKC Restaurants and employees. The current premium rate is **0.88%** of wages (up to the Social Security taxable wage maximum, which is set by the federal government each year), split equally — **0.44%** employer and **0.44%** employee. Your share is deducted automatically from your paycheck.
 
 ## Coordination with FMLA
 

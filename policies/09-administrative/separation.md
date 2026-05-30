@@ -1,6 +1,6 @@
 ---
 title: Separation of Employment
-version: 1.0
+version: 1.1
 effective_date: 2026-01-01
 status: active
 applies_to: all
@@ -28,7 +28,7 @@ Notice should be provided in writing to your manager. Providing adequate notice 
 Final pay will include:
 
 - All hours worked through your last day
-- Accrued, unused PTO (vacation time) per Minnesota law
+- Accrued, unused PTO (vacation time) per company policy
 - Any other earned wages
 
 Sick & Safe Time is not paid out upon separation.

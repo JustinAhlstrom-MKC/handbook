@@ -1,7 +1,7 @@
 # Employee Handbook Compliance Review
 
 **Generated:** December 2024
-**Last Updated:** February 2026
+**Last Updated:** May 2026
 **Status:** In Progress — Critical, High, and Moderate items complete
 **Review by:** Employment attorney recommended before distribution
 
@@ -24,7 +24,7 @@ These issues create immediate legal exposure.
   - Done: Full tip policy written — covers tips belong to employees, credit card tips paid in cash, no processing fee deductions, voluntary tip sharing (not mandatory pool), managers never participate, tip reporting via POS
 
 - [x] **Fix Meal Break Policy** - `policies/04-compensation/meal-rest-breaks.md`
-  - Done: Specified breaks are unpaid, 20 minutes, must clock out. Added missed break language.
+  - Done (updated May 2026): Meal breaks taken **on-premises are paid** (no clock-out, employee stays reachable), reflecting that staff are not fully relieved of duty in a restaurant. Employee must speak to a manager and **clock out** only if leaving the premises (that time is unpaid). `pay-and-timekeeping.md` clock-out instructions reconciled to match.
 
 - [x] **Fix Overtime Comp Time Language** - `policies/04-compensation/work-hours-overtime.md`
   - Done: Clarified that schedule adjustments may be made within the same workweek but once OT is worked it must be paid at 1.5x.
@@ -131,18 +131,16 @@ These improve clarity and reduce ambiguity.
 
 ## LOW PRIORITY - Best Practices
 
-- [ ] **Add Required Postings Reference**
-  - Create section referencing where employment posters are displayed
+- [x] **Add Required Postings Reference**
+  - Done (May 2026): Added "Required Workplace Postings" section to `eeo.md` — federal/state/local notices are posted in the management office at each location.
 
 - [ ] **Standardize Reporting Channels**
   - Most policies now say "any manager" with backup to ownership (Justin/Becky)
   - Harassment policy explicitly lists Justin and Becky email addresses
   - Consider whether other policies should also list ownership emails
 
-- [ ] **Consider Adding:**
-  - Jury duty / voting leave policy
-  - Military leave (USERRA) policy — relevant given FMLA military provisions
-  - Lactation accommodation standalone policy (currently covered briefly in accommodations.md)
+- [ ] **Consider Adding:** (jury duty / voting leave, USERRA military leave) — **deferred by ownership May 2026**, not added at launch
+  - Lactation accommodation standalone policy (currently covered in meal-rest-breaks.md and accommodations.md) — adequate as-is
 
 ---
 
@@ -156,6 +154,7 @@ These items were completed during the review process but were not originally lis
 - [x] **Expanded MN Paid Leave Policy** - `policies/04-compensation/mn-paid-leave.md`
   - Replaced one-sentence placeholder with full policy — eligibility ($3,900 threshold), qualifying reasons, duration (12+12, max 20 weeks), how to apply (state program), premium contributions (0.88% split 50/50), coordination with FMLA, job protection (90 days), no retaliation/interference
   - Verified against official MN Paid Leave Notice provided to employees
+  - May 2026: Replaced the specific Social Security wage-cap dollar figure with a non-stale description (figure resets annually and no MKC employee approaches it)
 
 - [x] **Added PTO Quick Reference Table** - `policies/04-compensation/pto-policy.md`
   - Added scheduling vs. pay reference table covering 5 common situations (vacation, doctor's appointment, sick day, family emergency, holiday closure)
@@ -215,13 +214,13 @@ When you engage an employment attorney, ask them to specifically review:
 | Critical | 6 | 6 | 0 |
 | High | 11 | 11 | 0 |
 | Moderate | 12 | 11 | 1 |
-| Low | 3 | 0 | 3 |
+| Low | 3 | 1 | 2 |
 | Additional | 4 | 4 | 0 |
-| **Total** | **36** | **32** | **4** |
+| **Total** | **36** | **33** | **3** |
 
 **Remaining items:**
 - 1 Moderate: ACA measurement periods (attorney/broker review needed)
-- 3 Low: Required postings reference, standardize reporting channels, consider additional leave policies
+- 2 Low: Standardize reporting channels; additional leave policies (voting/jury/USERRA — deferred by ownership)
 
 ---
 
