@@ -28,5 +28,5 @@ applies_to: all
 ## Management Contacts
 
 - **Emily O'Dell (General Manager - Margie's):** [emily@margies-kitchen.com](mailto:emily@margies-kitchen.com)
-- **Anne Marie Rohrs (General Manager - Grackle):** [anne-marie@gracklegrove.com](mailto:anne-marie@gracklegrove.com)
+- **Open (General Manager - Grackle):** 
 - **Diego Chalco (Culinary Director):** [diego@margies-kitchen.com](mailto:diego@margies-kitchen.com)
