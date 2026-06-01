@@ -1,0 +1,34 @@
+/* MKC Restaurants Brand Colors */
+/* Sage green accent: #6FA241 */
+
+:root {
+  /* Primary sage green */
+  --md-primary-fg-color: #6FA241;
+  --md-primary-fg-color--light: #8BB85E;
+  --md-primary-fg-color--dark: #4A6C2B;
+
+  /* Accent color */
+  --md-accent-fg-color: #6FA241;
+  --md-accent-fg-color--transparent: rgba(111, 162, 65, 0.1);
+
+  /* Link color */
+  --md-typeset-a-color: #6FA241;
+}
+
+/* Active navigation item */
+.md-nav__item--active > .md-nav__link {
+  color: #6FA241;
+}
+
+/* Navigation hover */
+.md-nav__link:hover {
+  color: #6FA241;
+}
+
+/* Hide status icons in navigation */
+.md-status,
+.md-nav__link .md-icon,
+.md-nav__link svg.md-status__icon,
+.md-nav__item .md-status {
+  display: none !important;
+}
