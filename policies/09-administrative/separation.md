@@ -28,10 +28,9 @@ Notice should be provided in writing to your manager. Providing adequate notice 
 Final pay will include:
 
 - All hours worked through your last day
-- Accrued, unused PTO (vacation time) per company policy
 - Any other earned wages
 
-Sick & Safe Time is not paid out upon separation.
+Vacation/PTO and Sick & Safe Time are benefits of continued employment, not earned wages, and are not paid out upon separation. Unused balances are forfeited on your last day. See the [Time Off Policy](../04-compensation/pto-policy.md).
 
 ## Return of Company Property
 

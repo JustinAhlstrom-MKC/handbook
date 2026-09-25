@@ -52,7 +52,7 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 ### Information Architecture
 - **Single source of truth**: Each piece of information lives in ONE policy only
 - **Cross-references**: Policies reference each other rather than duplicating content
-- Example: Employee Classifications defines what "full-time" means; PTO and Benefits policies reference it for eligibility
+- Example: Employee Classifications defines what "full-time" means; the Benefits policy references it for eligibility (hourly PTO is decoupled from classification)
 
 ### Employee Classifications (02-employment/employee-classifications.md)
 - **Part-Time:** <30 hours/week average
@@ -66,11 +66,14 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 - EAP (AllOne Health): All employees
 - **Probationary quarter:** If FT drops to PT, benefits continue for 1 quarter grace period. Benefits end after 2 consecutive PT quarters.
 
-### PTO Structure
-- Part-Time: Sick & Safe Time only (48 hrs/year, MN law)
-- Full-Time Hourly: SST + 40 hrs PTO/year
-- Exempt Management: SST + 80 hrs PTO/year (consistent across both locations)
-- **Accrual vs. use:** Full-time hires begin *accruing* PTO from their first day worked (payroll turns accrual on at hire — no day-30 trigger needed). PTO accrued in the first 30 days is *provisional* and is forfeited if the 30-day evaluation shows the employee was not actually full-time. PTO cannot be *used* until after 90 days (same as SST), so provisional PTO is never spent before status is confirmed. Provisional forfeiture applies to PTO only — SST is mandated and never forfeitable. Carryover capped at 40 hrs/year; excess forfeited at year-end.
+### PTO Structure (v2.0, effective 2026-09-03)
+- All employees: Sick & Safe Time (48 hrs/year, MN law). SST covers illness and other qualifying/unplanned absences.
+- **Hourly (any classification):** 24 hrs PTO granted twice a year, on the last payday in June and the last payday in December, if the employee worked **more than 700 clocked hours** in the 13 pay periods ending with the pay period paid on the grant date. No proration, no partial history. Eligibility is decoupled from FT/PT classification.
+- **Use-it-or-lose-it:** Hourly grant must be scheduled and used before the next grant date; unused hours forfeit on the next grant date and do not stack. Paid in 4-hour blocks. Must be requested before the payroll that includes the time off.
+- **Exempt Management:** Unchanged accrual — 3.08 hrs/pay period, 80 hrs/year cap, 40 hr carryover cap, usable after 90 days.
+- **PTO is vacation leave only** (both hourly and exempt) — cannot be used for unplanned absences. This keeps the PTO bank outside MN ESST rules.
+- **No payout at separation** for PTO or SST — both are benefits of continued employment, not earned wages. MN has no vacation-payout statute; written policy controls (Lee v. Fresenius).
+- **2026 transition:** First hourly grant made retroactively based on the 13 pay periods ending with the last June 2026 payday; usable through the last December 2026 payday.
 
 ## Current State
 

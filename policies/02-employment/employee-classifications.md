@@ -8,7 +8,7 @@ applies_to: all
 
 # Employee Classifications
 
-MKC Restaurants classifies employees based on their work hours and job duties. Your classification determines eligibility for benefits including PTO, health insurance, and other programs.
+MKC Restaurants classifies employees based on their work hours and job duties. Your classification determines eligibility for benefits including health insurance and other programs. Vacation/PTO for hourly employees is based on hours worked rather than classification; see the [Time Off Policy](../04-compensation/pto-policy.md).
 
 ## Classification Definitions
 
@@ -54,7 +54,7 @@ If you are part-time and your average hours increase to 30+ per week for a full 
 
 ### Losing Full-Time Status
 
-If you are full-time and your average hours fall below 30 per week for a full quarter, you will be reclassified as part-time on the next review date. See the [Time Off Policy](../04-compensation/pto-policy.md) and [Benefits](../04-compensation/benefits.md) for how reclassification affects those programs.
+If you are full-time and your average hours fall below 30 per week for a full quarter, you will be reclassified as part-time on the next review date. See [Benefits](../04-compensation/benefits.md) for how reclassification affects that program.
 
 ### Regaining Full-Time Status
 
