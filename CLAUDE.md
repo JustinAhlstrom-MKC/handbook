@@ -52,7 +52,7 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 ### Information Architecture
 - **Single source of truth**: Each piece of information lives in ONE policy only
 - **Cross-references**: Policies reference each other rather than duplicating content
-- Example: Employee Classifications defines what "full-time" means; the Benefits policy references it for eligibility (hourly PTO is decoupled from classification)
+- Example: Employee Classifications defines what "full-time" means; the Benefits policy references it for eligibility (hourly vacation is decoupled from classification)
 
 ### Employee Classifications (02-employment/employee-classifications.md)
 - **Part-Time:** <30 hours/week average
@@ -66,14 +66,17 @@ applies_to: all | [full-time, exempt] | [servers, bartenders, etc.]
 - EAP (AllOne Health): All employees
 - **Probationary quarter:** If FT drops to PT, benefits continue for 1 quarter grace period. Benefits end after 2 consecutive PT quarters.
 
-### PTO Structure (v2.0, effective 2026-09-03)
+### Vacation Structure (Time Off Policy v2.0, effective 2026-09-03)
+- **Naming:** The handbook calls the vacation bank **"Vacation"**, not "PTO", to reinforce that it is vacation-only and distinct from the old FT-only PTO accrual. "PTO" survives only as a system label (pay statements, the Airtable form's "Vacation/PTO" option, which `payroll.py` matches on the substring "PTO" — keep "PTO" in that option name). The file is still `pto-policy.md` to keep URLs stable.
 - All employees: Sick & Safe Time (48 hrs/year, MN law). SST covers illness and other qualifying/unplanned absences.
-- **Hourly (any classification):** 24 hrs PTO granted twice a year, on the last payday in June and the last payday in December, if the employee worked **more than 700 clocked hours** in the 13 pay periods ending with the pay period paid on the grant date. No proration, no partial history. Eligibility is decoupled from FT/PT classification.
-- **Use-it-or-lose-it:** Hourly grant must be scheduled and used before the next grant date; unused hours forfeit on the next grant date and do not stack. Paid in 4-hour blocks. Must be requested before the payroll that includes the time off.
-- **Exempt Management:** Unchanged accrual — 3.08 hrs/pay period, 80 hrs/year cap, 40 hr carryover cap, usable after 90 days.
-- **PTO is vacation leave only** (both hourly and exempt) — cannot be used for unplanned absences. This keeps the PTO bank outside MN ESST rules.
-- **No payout at separation** for PTO or SST — both are benefits of continued employment, not earned wages. MN has no vacation-payout statute; written policy controls (Lee v. Fresenius).
-- **2026 transition:** First hourly grant made retroactively based on the 13 pay periods ending with the last June 2026 payday; usable through the last December 2026 payday.
+- **Hourly (any classification):** 24 hrs vacation per grant, twice a year, if the employee worked **more than 700 clocked hours** in the grant's 13-pay-period window. No proration, no partial history. Eligibility is decoupled from FT/PT classification.
+  - **Summer grant:** window = 13 pay periods ending with the one paid on the last June payday; hours added **July 1** (after the June 30 expiration, so the expiration does not wipe it).
+  - **Winter grant:** window = 13 pay periods ending with the one paid on the last December payday; hours added on that payday.
+- **Vacation year July 1–June 30:** All unused hourly vacation expires **June 30** (payroll system supports one expiration per year). Winter hours stack on unused summer hours (max 48). No carryover. Paid in 4-hour blocks. Must be requested before the payroll that includes the time off.
+- **Exempt Management:** Unchanged accrual — 3.08 hrs/pay period, 80 hrs/year cap, 40 hr carryover cap at calendar year-end, usable after 90 days.
+- **Vacation is vacation leave only** (both hourly and exempt) — cannot be used for unplanned absences. This keeps the vacation bank outside MN ESST rules.
+- **No payout at separation** for vacation or SST — both are benefits of continued employment, not earned wages. MN has no vacation-payout statute; written policy controls (Lee v. Fresenius).
+- **2026 transition:** First hourly grant made retroactively based on the 13 pay periods ending with the last June 2026 payday; it and the December 2026 grant are usable through June 30, 2027.
 
 ## Current State
 

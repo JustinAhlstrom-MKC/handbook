@@ -113,7 +113,7 @@ sections = [
     ("Welcome & About Us", " — our story, mission, values, and who to contact"),
     ("Employment Basics", " — at-will employment, classifications, EEO, and accommodations"),
     ("Workplace Conduct", " — harassment, respect, confidentiality, and a safe environment"),
-    ("Compensation & Time Off", " — pay, tips, breaks, PTO, sick & safe time, leave, and benefits"),
+    ("Compensation & Time Off", " — pay, tips, breaks, vacation, sick & safe time, leave, and benefits"),
     ("Scheduling & Attendance", " — how schedules and time-off requests work"),
     ("Appearance & Professionalism", " — dress code and grooming standards"),
     ("Technology & Systems", " — Toast, 7shifts, and social media"),

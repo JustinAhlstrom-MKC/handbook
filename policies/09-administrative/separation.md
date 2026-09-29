@@ -30,7 +30,7 @@ Final pay will include:
 - All hours worked through your last day
 - Any other earned wages
 
-Vacation/PTO and Sick & Safe Time are benefits of continued employment, not earned wages, and are not paid out upon separation. Unused balances are forfeited on your last day. See the [Time Off Policy](../04-compensation/pto-policy.md).
+Vacation and Sick & Safe Time are benefits of continued employment, not earned wages, and are not paid out upon separation. Unused balances are forfeited on your last day. See the [Time Off Policy](../04-compensation/pto-policy.md).
 
 ## Return of Company Property
 

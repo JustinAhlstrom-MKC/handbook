@@ -22,7 +22,7 @@ Non-exempt employees are paid for hours worked; therefore, time worked must be a
 
 ## Overtime
 
-Non-exempt employees are paid the overtime rate of one and one-half times their regular hourly rate for all time worked in excess of 40 hours in any work week. Overtime payment is based on actual hours worked within a work week. Therefore, any hours worked (up to 40 hours) during a work week that includes a holiday or PTO time will be paid as straight time.
+Non-exempt employees are paid the overtime rate of one and one-half times their regular hourly rate for all time worked in excess of 40 hours in any work week. Overtime payment is based on actual hours worked within a work week. Therefore, any hours worked (up to 40 hours) during a work week that includes a holiday, vacation, or Sick & Safe Time will be paid as straight time.
 
 Overtime should be approved in advance by your manager. Employees who work overtime without obtaining proper authorization may be subject to disciplinary action. Regardless of whether the overtime was approved or not, employees will be paid for all hours worked.
 

@@ -30,7 +30,7 @@ You are entitled to up to **12 weeks** of FMLA leave in a 12-month period, measu
 
 ## Pay During Leave
 
-You are required to use your available PTO and Sick & Safe Time concurrently with FMLA leave. Once paid leave is exhausted, the remainder of your FMLA leave will be unpaid. You may also be eligible for wage replacement through [Minnesota Paid Leave](mn-paid-leave.md).
+You are required to use your available vacation and Sick & Safe Time concurrently with FMLA leave. Once paid leave is exhausted, the remainder of your FMLA leave will be unpaid. You may also be eligible for wage replacement through [Minnesota Paid Leave](mn-paid-leave.md).
 
 ## Job Protection
 

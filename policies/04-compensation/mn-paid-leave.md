@@ -59,7 +59,7 @@ If your leave qualifies under both Minnesota Paid Leave and the [Family and Medi
 
 ## Coordination with Employer-Provided Leave
 
-You may use your available PTO or Sick & Safe Time to supplement your Paid Leave benefit, up to your regular wages. You cannot receive more than your normal pay by combining benefits.
+You may use your available vacation or Sick & Safe Time to supplement your Paid Leave benefit, up to your regular wages. You cannot receive more than your normal pay by combining benefits.
 
 ## Job Protection
 

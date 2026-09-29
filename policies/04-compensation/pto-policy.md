@@ -2,7 +2,7 @@
 title: Time Off Policy
 version: 2.0
 effective_date: 2026-09-03
-status: in-review
+status: active
 applies_to: all
 ---
 
@@ -16,35 +16,35 @@ This policy covers two types of paid time off:
 
 - **Sick and Safe Time (SST):** Required by Minnesota law, this time is designated for specific qualifying reasons such as illness, medical appointments, and safety-related absences. All employees are eligible.
 
-- **Vacation/PTO:** Paid vacation time for planned, pre-scheduled time away from work—rest, travel, family events, or any other planned reason. Hourly employees receive PTO through a twice-yearly grant based on hours worked. Exempt management accrues PTO each pay period.
+- **Vacation:** Paid time for planned, pre-scheduled time away from work—rest, travel, family events, or any other planned reason. Hourly employees receive vacation through a twice-yearly grant based on hours worked. Exempt management accrues vacation each pay period.
 
-Vacation/PTO is vacation leave only. It is not sick leave and cannot be used for unplanned absences. Illness, medical care, and other qualifying absences are covered by Sick and Safe Time.
+Vacation is not sick leave and cannot be used for unplanned absences. Illness, medical care, and other qualifying absences are covered by Sick and Safe Time.
 
 ## Time Off at a Glance
 
 | Time Off Type | Who Is Eligible | Amount |
 |---------------|-----------------|--------|
 | Sick & Safe Time | All employees | Accrued up to 48 hrs/year |
-| Vacation/PTO — Hourly | Hourly employees who worked more than 700 hours in the prior 13 pay periods | 24 hrs granted twice a year (June and December) |
-| Vacation/PTO — Exempt Management | Exempt (salaried) management | Accrued up to 80 hrs/year |
+| Vacation — Hourly | Hourly employees who worked more than 700 hours in the prior 13 pay periods | 24 hrs granted twice a year; unused hours expire June 30 |
+| Vacation — Exempt Management | Exempt (salaried) management | Accrued up to 80 hrs/year |
 
-Vacation/PTO for hourly employees is based on hours worked, not on full-time or part-time classification. Your classification still determines eligibility for other benefits; see the [Employee Classifications](../02-employment/employee-classifications.md) policy.
+Vacation for hourly employees is based on hours worked, not on full-time or part-time classification. Your classification still determines eligibility for other benefits; see the [Employee Classifications](../02-employment/employee-classifications.md) policy.
 
 ## Quick Reference: Scheduling and Pay
 
-Scheduling time off (through 7shifts) and requesting paid time off are **two separate steps**. The table below shows how common situations work.
+Scheduling time off (through 7shifts) and requesting pay for it are **two separate steps**. The table below shows how common situations work.
 
-| Situation | Scheduling | Paid Time Off |
-|-----------|------------|---------------|
-| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | PTO — submit a PTO request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the day off. |
+| Situation | Scheduling | Getting Paid |
+|-----------|------------|--------------|
+| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | Vacation — submit a vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the day off. |
 | **Doctor's appointment** | Request off in 7shifts as early as possible. If the schedule is already published, talk to your manager or find coverage. | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
-| **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). PTO does not apply. |
-| **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). PTO does not apply. |
-| **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | PTO (if you want to be paid for the day) — submit a PTO request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). SST does not apply. |
+| **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). Vacation does not apply. |
+| **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). Vacation does not apply. |
+| **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | Vacation (if you want to be paid for the day) — submit a vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). SST does not apply. |
 
-**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting paid time off (PTO or SST) is a separate step done through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form).
+**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting pay for time off (vacation or SST) is a separate step done through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form).
 
-**Key distinction:** Sick and Safe Time is for qualifying reasons (illness, medical care, safety situations, and the other reasons listed below) and may be used for unplanned absences. Vacation/PTO is vacation time: it must be scheduled and requested in advance and cannot be used for unplanned absences.
+**Key distinction:** Sick and Safe Time is for qualifying reasons (illness, medical care, safety situations, and the other reasons listed below) and may be used for unplanned absences. Vacation must be scheduled and requested in advance and cannot be used for unplanned absences.
 
 ---
 
@@ -92,33 +92,38 @@ For absences exceeding two consecutive scheduled workdays, MKC Restaurants may r
 
 ---
 
-## Vacation/PTO
+## Vacation
 
-Vacation/PTO is paid vacation time for planned time away from work. It is a benefit of continued employment, not earned compensation.
+Vacation is paid time for planned time away from work. It is a benefit of continued employment, not earned compensation. Your pay statement and the request form may label vacation hours as "PTO."
 
 ### Hourly Employees
 
-Hourly employees receive Vacation/PTO through a grant made twice a year. PTO is not accrued hour by hour, and eligibility does not depend on your full-time or part-time classification.
+Hourly employees receive vacation through a grant made twice a year. Vacation is not accrued hour by hour, and eligibility does not depend on your full-time or part-time classification.
 
-**Grant dates:** PTO is granted on the last payday in June and the last payday in December.
+**Grants:** The vacation year runs July 1 through June 30, with two grants each year:
 
-**Eligibility:** On each grant date, you receive **24 hours** of PTO if you worked **more than 700 hours** during the 13 pay periods ending with the pay period paid on that date.
+| Grant | Hours That Count | Added to Your Balance |
+|-------|------------------|-----------------------|
+| Summer | The 13 pay periods ending with the one paid on the last payday in June | July 1 |
+| Winter | The 13 pay periods ending with the one paid on the last payday in December | The last payday in December |
 
-- Only clocked hours worked count. Paid time off hours (PTO or SST) do not count toward the 700-hour threshold.
+**Eligibility:** You receive **24 hours** of vacation at each grant if you worked **more than 700 hours** during that grant's 13 pay periods.
+
+- Only clocked hours worked count. Paid time off hours (vacation or SST) do not count toward the 700-hour threshold.
 - The 700-hour threshold is set below a full-time schedule on purpose. Ordinary time off and location closures during the period should not cost you the grant.
-- There is no proration. If you have not yet worked all 13 pay periods, or you worked 700 hours or fewer, you do not receive a grant on that date.
-- Eligibility is determined fresh at each grant date based only on the hours in that 13-pay-period window.
+- There is no proration. If you have not yet worked all 13 pay periods, or you worked 700 hours or fewer, you do not receive that grant.
+- Eligibility is determined fresh at each grant based only on the hours in that 13-pay-period window.
 
-**Using your PTO:**
+**Using your vacation:**
 
-- **Use-by date:** Granted hours must be scheduled and used before the next grant date. Any unused hours are forfeited on the next grant date. Balances do not carry over and do not stack with the next grant.
-- **Advance scheduling:** PTO is vacation time and must be planned. Request the day(s) off in 7shifts at least 3 weeks in advance, and submit your PTO request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the time off. PTO cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
-- **Minimum increment:** PTO is paid in 4-hour blocks (4, 8, 12, 16, 20, or 24 hours).
-- **Approval:** All PTO requests are subject to approval based on business needs.
+- **Use-by date:** All vacation hours expire on **June 30**. Winter grant hours are added to any unused summer grant hours, so you may have up to 48 hours available, and all of it must be used by June 30. Unused hours do not carry over into the next vacation year.
+- **Advance scheduling:** Vacation must be planned. Request the day(s) off in 7shifts at least 3 weeks in advance, and submit your vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the time off. Vacation cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
+- **Minimum increment:** Vacation is paid in 4-hour blocks (4, 8, 12 hours, and so on).
+- **Approval:** All vacation requests are subject to approval based on business needs.
 
-**No payout:** Vacation/PTO is a benefit of continued employment and is not earned wages. Unused PTO has no cash value and is not paid out when employment ends for any reason.
+**No payout:** Vacation is a benefit of continued employment and is not earned wages. Unused vacation has no cash value and is not paid out when employment ends for any reason.
 
-**2026 transition:** The first grant under this policy is based on the 13 pay periods ending with the last payday in June 2026 and was credited when this policy took effect. Those hours must be used before the last payday in December 2026, when the next grant is made.
+**2026 transition:** The first grant under this policy is based on the 13 pay periods ending with the last payday in June 2026 and was credited when this policy took effect. Those hours, along with any hours from the December 2026 winter grant, must be used by June 30, 2027.
 
 ### Exempt Management
 
@@ -129,22 +134,22 @@ Hourly employees receive Vacation/PTO through a grant made twice a year. PTO is 
 - **Usage begins:** After 90 days of employment
 - **Balance Cap:** Up to 40 hours may carry over from one year to the next. Any accrued balance above 40 hours that is unused at year-end is forfeited.
 
-**Using your PTO:** Exempt PTO is vacation time and follows the same scheduling rules as hourly PTO. It must be scheduled and requested in advance and cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
+**Using your vacation:** Exempt vacation follows the same scheduling rules as hourly vacation. It must be scheduled and requested in advance and cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
 
-**No payout:** Vacation/PTO is a benefit of continued employment and is not earned wages. Unused PTO has no cash value and is not paid out when employment ends for any reason.
+**No payout:** Vacation is a benefit of continued employment and is not earned wages. Unused vacation has no cash value and is not paid out when employment ends for any reason.
 
 ---
 
 ## Requesting Time Off
 
 1. **Schedule the time off** — Request the day off in **7shifts** at least 3 weeks in advance. All time off requests are subject to approval based on business needs.
-2. **Request pay (if applicable)** — Submit a separate request through the **[online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form)** for PTO or SST. PTO requests must be submitted before the payroll that includes the time off.
+2. **Request pay (if applicable)** — Submit a separate request through the **[online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form)** for vacation or SST. Vacation requests must be submitted before the payroll that includes the time off.
 
 For unplanned absences (illness, emergencies), call your manager before your shift and submit your Sick and Safe Time request afterward.
 
 ## Payout at Separation
 
-Neither Sick and Safe Time nor Vacation/PTO is paid out when employment ends, whether you resign or are terminated. Both are benefits of continued employment, not earned compensation, and unused balances are forfeited on your last day.
+Neither Sick and Safe Time nor vacation is paid out when employment ends, whether you resign or are terminated. Both are benefits of continued employment, not earned compensation, and unused balances are forfeited on your last day.
 
 ## Questions
 

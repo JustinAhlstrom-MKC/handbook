@@ -38,7 +38,7 @@ This handbook contains the policies, guidelines, and information you need as a m
 |-------|------------------|
 | [Welcome & About Us](01-welcome/welcome-letter.md) | Our story, mission, and team contacts |
 | [Employment Basics](02-employment/at-will.md) | Classifications, introductory period, EEO |
-| [Compensation & Time Off](04-compensation/pay-and-timekeeping.md) | Pay, PTO, benefits |
+| [Compensation & Time Off](04-compensation/pay-and-timekeeping.md) | Pay, time off, benefits |
 | [Scheduling](05-scheduling/attendance.md) | Attendance expectations |
 | [Safety](08-safety/food-safety.md) | Food safety, emergencies, injury reporting |
 | [Acknowledgement](10-acknowledgement/acknowledgement.md) | Read and acknowledge the handbook |

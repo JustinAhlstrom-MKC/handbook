@@ -8,7 +8,7 @@ applies_to: all
 
 # Employee Classifications
 
-MKC Restaurants classifies employees based on their work hours and job duties. Your classification determines eligibility for benefits including health insurance and other programs. Vacation/PTO for hourly employees is based on hours worked rather than classification; see the [Time Off Policy](../04-compensation/pto-policy.md).
+MKC Restaurants classifies employees based on their work hours and job duties. Your classification determines eligibility for benefits including health insurance and other programs. Vacation for hourly employees is based on hours worked rather than classification; see the [Time Off Policy](../04-compensation/pto-policy.md).
 
 ## Classification Definitions
 

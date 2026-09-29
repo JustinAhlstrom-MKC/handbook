@@ -35,7 +35,7 @@ Successful completion of the introductory period is not a guarantee of continued
 After 90 days:
 
 - You become eligible to **use** accrued Sick & Safe Time
-- Exempt employees become eligible to **use** any PTO they have accrued. (Hourly employees receive Vacation/PTO through twice-yearly grants that require 13 pay periods of work history, so the first grant comes after the introductory period. See the [Time Off Policy](../04-compensation/pto-policy.md).)
+- Exempt employees become eligible to **use** any vacation they have accrued. (Hourly employees receive vacation through twice-yearly grants that require 13 pay periods of work history, so the first grant comes after the introductory period. See the [Time Off Policy](../04-compensation/pto-policy.md).)
 - You remain eligible for any applicable benefits as outlined in our policies
 
 ## Extensions
