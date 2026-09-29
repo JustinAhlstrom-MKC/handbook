@@ -36,13 +36,13 @@ Scheduling time off (through 7shifts) and requesting pay for it are **two separa
 
 | Situation | Scheduling | Getting Paid |
 |-----------|------------|--------------|
-| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | Vacation — submit a vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the day off. |
+| **Planned vacation or personal day** | Request off in 7shifts at least 3 weeks ahead | Vacation — submit a vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
 | **Doctor's appointment** | Request off in 7shifts as early as possible. If the schedule is already published, talk to your manager or find coverage. | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). |
 | **Sick day (calling in)** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). Vacation does not apply. |
 | **Family member illness or emergency** | Call your manager as soon as possible before your shift | SST — submit a request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). Vacation does not apply. |
 | **Planned restaurant closure (holiday)** | No action needed — you will not be scheduled | Vacation (if you want to be paid for the day) — submit a vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). SST does not apply. |
 
-**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting pay for time off (vacation or SST) is a separate step done through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form).
+**Note:** Time off in 7shifts is for scheduling purposes only and all shows as unpaid. Requesting pay for time off (vacation or SST) is a separate step done through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form). Submit your pay request no later than 1 week after the time off. Requests submitted after the time off may be paid on a later paycheck instead of the one that covers those days.
 
 **Key distinction:** Sick and Safe Time is for qualifying reasons (illness, medical care, safety situations, and the other reasons listed below) and may be used for unplanned absences. Vacation must be scheduled and requested in advance and cannot be used for unplanned absences.
 
@@ -117,7 +117,7 @@ Hourly employees receive vacation through a grant made twice a year. Vacation is
 **Using your vacation:**
 
 - **Use-by date:** All vacation hours expire on **June 30**. Winter grant hours are added to any unused summer grant hours, so you may have up to 48 hours available, and all of it must be used by June 30. Unused hours do not carry over into the next vacation year.
-- **Advance scheduling:** Vacation must be planned. Request the day(s) off in 7shifts at least 3 weeks in advance, and submit your vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) before the payroll that includes the time off. Vacation cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
+- **Advance scheduling:** Vacation must be planned. Request the day(s) off in 7shifts at least 3 weeks in advance, and submit your vacation request through the [online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form) no later than 1 week after the time off. Vacation cannot be used for unplanned absences. Use Sick and Safe Time for illness and other qualifying reasons.
 - **Minimum increment:** Vacation is paid in 4-hour blocks (4, 8, 12 hours, and so on).
 - **Approval:** All vacation requests are subject to approval based on business needs.
 
@@ -143,9 +143,9 @@ Hourly employees receive vacation through a grant made twice a year. Vacation is
 ## Requesting Time Off
 
 1. **Schedule the time off** — Request the day off in **7shifts** at least 3 weeks in advance. All time off requests are subject to approval based on business needs.
-2. **Request pay (if applicable)** — Submit a separate request through the **[online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form)** for vacation or SST. Vacation requests must be submitted before the payroll that includes the time off.
+2. **Request pay (if applicable)** — Submit a separate request through the **[online form](https://airtable.com/appVWDqRGdBqhvfEj/pagh9pDzvWb1EHF4j/form)** for vacation or SST no later than 1 week after the time off. Requests submitted after the time off may be paid on a later paycheck instead of the one that covers those days.
 
-For unplanned absences (illness, emergencies), call your manager before your shift and submit your Sick and Safe Time request afterward.
+For unplanned absences (illness, emergencies), call your manager before your shift and submit your Sick and Safe Time request afterward, within 1 week.
 
 ## Payout at Separation
 
